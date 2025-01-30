@@ -47,7 +47,7 @@ def generate_loose_hits_tsv():
         if output.iloc[i]['Database'] == 'resfinder':
             gene_name = output.iloc[i]['ORF_ID']
             resfinder_antibiotic_classes = pd.read_csv('./data/resfinder_antibiotic_classes.tsv', sep='\t')
-            drug_class = resfinder_antibiotic_classes[resfinder_antibiotic_classes['Gene_accession no.'] == gene_name]['Class'].to_string().split(' ')[-1]
+            drug_class = str(resfinder_antibiotic_classes[resfinder_antibiotic_classes['Gene_accession no.'] == gene_name]['Class'].values).replace("['", '').replace("']", '')
         if output.iloc[i]['Database'] == 'resfinderfg':
             drug_class = output.iloc[i]['ORF_ID'].split('|')[0]
         if output.iloc[i]['Database'] == 'megares':
@@ -55,7 +55,7 @@ def generate_loose_hits_tsv():
         if output.iloc[i]['Database'] == 'sarg':
             gene_name = output.iloc[i]['ORF_ID'].split(' ')[0]
             sarg_antibiotic_classes = pd.read_csv('./data/SARG_structure.tsv', sep='\t')
-            drug_class = sarg_antibiotic_classes[sarg_antibiotic_classes['SARG.Seq.ID'] == gene_name]['Type'].to_string().split(' ')[-1]
+            drug_class = str(sarg_antibiotic_classes[sarg_antibiotic_classes['SARG.Seq.ID'] == gene_name]['Type'].values).replace("['", '').replace("']", '')
         
         drug_classes.append(drug_class)
 
@@ -64,11 +64,21 @@ def generate_loose_hits_tsv():
 
 def analyze_loose_hits_tsv():
     alternative_ids = {
-        "beta-lactam antibiotic": ['Bla', 'beta_lactam', 'beta-lactam', 'Beta-lactamase', 'betalactams', 'beta-lactamase', 'Metallo-beta-lactamase'],
-        "aminoglycoside antibiotic": ['Aminoglycoside', 'AMINOGLYCOSIDE', 'aminoglycoside', 'AGly', 'Aminoglycosides'],
+        "beta-lactam antibiotic": ['Bla', 'beta_lactam', 'beta-lactam', 'Beta-lactamase', 'betalactams', 'beta-lactamase', 'Metallo-beta-lactamase', 'putative peptidoglycan D%2CD-transpeptidase PenA'],
+        "aminoglycoside antibiotic": ['aminoglycoside', 'AGly', 'Aminoglycosides', "Streptomycin 3''-adenylyltransferase", 'Gentamicin 3-N-acetyltransferase', 'Bifunctional AAC/APH'],
         "macrolide antibiotic": ['MLS', 'MACROLIDE', 'Macrolide'],
         "tetracycline antibiotic": ['tetracycline', 'Tet', 'TETRACYCLINE', 'Tetracyclines', 'Tetracycline', 'Tetracycline resistance protein', 'Tetracycline repressor protein'],
-        "phenicol antibiotic": ['Phe', 'chloramphenicol', 'amphenicol', 'Chloramphenicol acetyltransferase', 'Chloramphenicol acetyltransferase 2', 'florfenicol']
+        "phenicol antibiotic": ['Phe', 'chloramphenicol', 'amphenicol', 'Chloramphenicol acetyltransferase', 'Chloramphenicol acetyltransferase 2', 'florfenicol'],
+        "phosphonic acid antibiotic": ['fosfomycin', 'Fosfomycin'],
+        "sulfonamide antibiotic": ['Sulfonamides', 'Dihydropteroate synthase'],
+        "glycopeptide antibiotic": ['Glycopeptides', 'vancomycin', 'bleomycin', 'D-alanine--D-alanine ligase', 'D-alanine--D-alanine ligase B', 'D-alanine--D-alanine ligase A'],
+        "diaminopyrimidine antibiotic": ['Dihydrofolate reductase', 'Trimethoprim', 'Folate pathway antagonist', 'Tmt'],
+        "peptide antibiotic": ['bacitracin', 'polymyxin', 'other_peptide_antibiotics', 'COLISTIN', 'lipopeptides'],
+        "aminocoumarin antibiotic": ['novobiocin'],
+        "nucleoside antibiotic": ['puromycin'],
+        "rifamycin antibiotic": ['rifampin'],
+        "lincosamid antibiotic": ['lincosamide'],
+        "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B']
     }
     
     metals = ['mercury_resistance', 'multi-metal_resistance', 'tellurium_resistance', 'tellurium', 'arsenic', 'cadmium', 'copper', 'mercury', 'nickel', 'copper/silver', 'silver', 'cadmium/cobalt/nickel', 'chromate']
@@ -76,7 +86,6 @@ def analyze_loose_hits_tsv():
 
     df = pd.read_csv('loose_hits.tsv', sep='\t')
 
-    total = df.shape[0]
     correct = []
     incorrect = []
     metal_resistance_genes = []
@@ -89,9 +98,9 @@ def analyze_loose_hits_tsv():
         else:
             if str(df.iloc[i]['Original Drug Classes']).lower() in df.iloc[i]['Drug Classes'].lower():
                 correct.append(df.iloc[i])
-            elif 'multidrug' in str(df.iloc[i]['Original Drug Classes']).lower():
+            elif 'multidrug' in str(df.iloc[i]['Original Drug Classes']).lower() or 'multi-drug_resistance' in str(df.iloc[i]['Original Drug Classes']).lower():
                 correct.append(df.iloc[i])
-            elif 'macrolide-lincosamide-streptogramin' == str(df.iloc[i]['Original Drug Classes']).lower():
+            elif 'macrolide-lincosamide-streptogramin' in str(df.iloc[i]['Original Drug Classes']).lower():
                 matched = False
                 for ii in 'macrolide-lincosamide-streptogramin'.split('-'):
                     if ii in df.iloc[i]['Drug Classes'].lower():
@@ -101,7 +110,9 @@ def analyze_loose_hits_tsv():
                 
                 if not matched:
                     incorrect.append(df.iloc[i])
-            elif 'sdia' in str(df.iloc[i]['ORF_ID']).lower() or 'cpxr' in str(df.iloc[i]['ORF_ID']).lower():
+            elif 'sdia' in str(df.iloc[i]['ORF_ID']).lower() or 'cpxr' in str(df.iloc[i]['ORF_ID']).lower() or 'rosA' in str(df.iloc[i]['ORF_ID']) or 'rosB' in str(df.iloc[i]['ORF_ID']):
+                correct.append(df.iloc[i])
+            elif 'penicillin-binding_protein_' in str(df.iloc[i]['ORF_ID']).lower() and 'beta-lactam antibiotic' in str(df.iloc[i]['Drug Classes']):
                 correct.append(df.iloc[i])
             elif str(df.iloc[i]['Original Drug Classes']).lower() in metals:
                 metal_resistance_genes.append(df.iloc[i])
@@ -120,13 +131,13 @@ def analyze_loose_hits_tsv():
                                 break
                         
                 if not matched:
-                        incorrect.append(df.iloc[i])
+                    incorrect.append(df.iloc[i])
 
-    with open('loose_hit_outputs/incorrect_loose_hits.txt', 'w') as ofile:
+    with open('loose_hit_outputs/flagged_loose_hits.txt', 'w') as ofile:
         for i in incorrect:
             ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
             
-    with open('loose_hit_outputs/correct_loose_hits.txt', 'w') as ofile:
+    with open('loose_hit_outputs/matched_loose_hits.txt', 'w') as ofile:
         for i in correct:
             ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
             
