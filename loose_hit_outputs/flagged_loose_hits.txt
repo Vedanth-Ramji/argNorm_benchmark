@@ -1,46 +1,32 @@
-HE999704.1.gene1047.p01|FEATURES|msrA|MLS|msrA	['lincosamide antibiotic']	MLS
 gi:447201635:ref:WP_001278891.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 HE999704.1.gene1687.p01|FEATURES|macA|MLS|macA	['phenicol antibiotic', 'phenicol antibiotic']	MLS
 gi:916182247:ref:WP_050964278.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 EDJ91555|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:738205817:ref:WP_036161732.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983943:ref:WP_000061798.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:542004148:gb:ERH50104.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:446993873:ref:WP_001071129.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:915954384:ref:WP_050939464.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:686372005:ref:WP_031896197.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:1044618389:gb:OCB92939.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 HE999704.1.gene1528.p01|FEATURES|truncated_putative_response_regulator_ArlR|unclassified|truncated_putative_response_regulator_ArlR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:447201650:ref:WP_001278906.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 A7ZW03|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-KC539823.1.gene1.p01|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 YP_002240485|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 YP_401803|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 YP_002203876|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic']	tetracenomycin_C
-gi:445983932:ref:WP_000061787.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983921:ref:WP_000061776.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:489824637:ref:WP_003728417.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 BAH61691|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:447201645:ref:WP_001278901.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:1006756370:ref:WP_061823690.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:1005558399:ref:WP_061655514.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:499132967:ref:WP_010860999.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001454848|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:447201641:ref:WP_001278897.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 CP000308.1.gene1582.p01|FEATURES|DNA-binding_protein_H-NS|unclassified|DNA-binding_protein_H-NS	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	unclassified
 gi:835822517:ref:WP_047669155.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 NC_011035.1.6447920.p01|FEATURES|DNA-binding_protein_H-NS|unclassified|DNA-binding_protein_H-NS	['phenicol antibiotic']	unclassified
-gi:817727729:ref:WP_046680744.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:835804111:ref:WP_047662791.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:1005577494:ref:WP_061669299.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:498488199:ref:WP_010789887.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_00990220|FEATURES|tet34|tetracycline|tet34	['lincosamide antibiotic']	tetracycline
 ABH08225|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:672836786:gb:KFH80994.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:657343292:ref:WP_029402253.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 P42670|FEATURES|puromycin_resistance_protein|nucleoside|puromycin_resistance_protein	['elfamycin antibiotic']	nucleoside
 gi:485871715:ref:WP_001468640.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-YP_002861121|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:664302674:ref:WP_030832078.1:|FEATURES|viomycin_phosphotransferase|aminoglycoside|viomycin_phosphotransferase	['peptide antibiotic']	aminoglycoside
 P33810|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:693209755:ref:WP_032328790.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
@@ -49,79 +35,50 @@ gi:447201625:ref:WP_001278881.1:|FEATURES|cob(I)alamin_adenolsyltransferase|uncl
 Q83MG8|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:446993886:ref:WP_001071142.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:1005569653:ref:WP_061663029.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
-gi:738272573:ref:WP_036227195.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447201627:ref:WP_001278883.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:494215524:ref:WP_007131565.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 CAD90667|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
-gi:445983919:ref:WP_000061774.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:1003765182:ref:WP_061463312.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:983301550:ref:WP_060487860.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NC_002745.1124086.p01|FEATURES|truncated_putative_response_regulator_ArlR|unclassified|truncated_putative_response_regulator_ArlR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	unclassified
-gi:651595894:ref:WP_026590859.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_04606269|FEATURES|thiostrepton_resistance_methylase_tsnR|unclassified|thiostrepton_resistance_methylase_tsnR	['peptide antibiotic']	unclassified
 gi:928802369:ref:WP_053873214.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:1006153492:ref:WP_061733756.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:686133171:ref:WP_031774173.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:1006809738:ref:WP_061824445.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-AAG08983|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 Q7N8V7|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:446993909:ref:WP_001071165.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:916211506:ref:WP_050969978.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 B6HZ32|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 AB158573.gene.p01|FEATURES|rpsD_(ramA_or_sud2)|unclassified|rpsD_(ramA_or_sud2)	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'diaminopyrimidine antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 ZP_04466634|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:1008199138:ref:WP_061860513.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:491533320:ref:WP_005390943.1:|FEATURES|tetB|tetracycline|tetB	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	tetracycline
-gi:937111451:ref:WP_054550161.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001290033|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
 gi:1005555254:ref:WP_061653404.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:915546417:ref:WP_050844389.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:1027702639:ref:WP_063637955.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983946:ref:WP_000061801.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1006147757:ref:WP_061732287.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 ZP_00156276|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:924337096:ref:WP_053474708.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447201651:ref:WP_001278907.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:738121094:ref:WP_036079133.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002113107|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 YP_002181880|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	tetracenomycin_C
 gi:1006152247:ref:WP_061733462.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:1007064214:ref:WP_061839264.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:631799622:gb:AHZ14287.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
-gi:950274036:ref:WP_057309929.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 BAB59035|FEATURES|tet34|tetracycline|tet34	['beta-lactam antibiotic', 'beta-lactam antibiotic']	tetracycline
 gi:486160987:ref:WP_001524598.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:446993897:ref:WP_001071153.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 AAB17875|FEATURES|thiostrepton_resistance_methylase_tsnR|unclassified|thiostrepton_resistance_methylase_tsnR	['peptide antibiotic']	unclassified
-gi:655143626:ref:WP_028590425.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002666586|FEATURES|tet34|tetracycline|tet34	['lincosamide antibiotic']	tetracycline
-gi:1008988570:ref:WP_061884457.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NP_733568|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	tetracenomycin_C
-gi:926256269:ref:WP_053594535.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001461223|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:488103652:ref:WP_002175049.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AY082011.1.gene2.p1|FEATURES|vanS|glycopeptide|vanS	['beta-lactam antibiotic']	glycopeptide
 gi:835704930:ref:WP_047624280.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:1006178758:ref:WP_061739947.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 YP_001439344|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:445983948:ref:WP_000061803.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:489827925:ref:WP_003731686.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
-gi:759011154:ref:WP_043070402.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:506990141:ref:WP_016080735.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:928778382:ref:WP_053860941.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:446993885:ref:WP_001071141.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 AAS49820|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
-gi:1024915484:ref:WP_063548266.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1007060617:ref:WP_061838454.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:445983926:ref:WP_000061781.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NP_536537|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
-gi:938181371:ref:WP_054611487.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-YP_002332257|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:1006676707:ref:WP_061820836.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 ZP_03030905|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:558693259:ref:WP_023522676.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AE015929.1.gene1106.p01|FEATURES|truncated_putative_response_regulator_ArlR|unclassified|truncated_putative_response_regulator_ArlR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	unclassified
-gi:817536927:ref:WP_046586836.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 B7LVU5|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:501327905:ref:WP_012359540.1:|FEATURES|tetB|tetracycline|tetB	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	tetracycline
 CP001138.1.gene1383.p01|FEATURES|DNA-binding_protein_H-NS|unclassified|DNA-binding_protein_H-NS	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	unclassified
@@ -129,184 +86,111 @@ CP001485.1.gene2287.p01|FEATURES|DNA-binding_protein_H-NS|unclassified|DNA-bindi
 EDK10390|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
 gi:504744538:ref:WP_014931640.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 ZP_00155442|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:517597104:ref:WP_018767312.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:755162121:ref:WP_042511261.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:1031496106:ref:WP_064100483.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:1036324608:gb:OAZ67878.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 ACI71754|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:517611899:ref:WP_018782107.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001571902|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:12483631:dbj:BAB21440.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:447201640:ref:WP_001278896.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:489865503:ref:WP_003769095.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 CAB54703|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:1006166702:ref:WP_061737137.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:749294836:ref:WP_040119491.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:495453058:ref:WP_008177752.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001292390|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:950193886:ref:WP_057240777.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1002550102:ref:WP_061393727.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:371566923:emb:CCF03773.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
-gi:640724631:ref:WP_025147673.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983936:ref:WP_000061791.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-YP_001419928|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:485791166:ref:WP_001413069.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:516373453:ref:WP_017763486.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001444376|FEATURES|tet34|tetracycline|tet34	['beta-lactam antibiotic', 'beta-lactam antibiotic']	tetracycline
 gi:835837149:ref:WP_047675817.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 CP001918.1.gene4502.p01|FEATURES|two-component_system_response_regulator_EvgA|unclassified|two-component_system_response_regulator_EvgA	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	unclassified
 Q8DF90|FEATURES|tet34|tetracycline|tet34	['beta-lactam antibiotic', 'beta-lactam antibiotic']	tetracycline
 gi:898534650:ref:WP_049595194.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:899812464:emb:CQH53126.1:|FEATURES|cAMP-regulatory_protein|unclassified|cAMP-regulatory_protein	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:1030030526:gb:ANF35167.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:1031791968:ref:WP_064133322.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 YP_002401190|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:447201648:ref:WP_001278904.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:445983950:ref:WP_000061805.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 Q57TH0|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:537465722:ref:WP_020977229.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 AAC22099|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
 gi:1031805109:ref:WP_064139257.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:902795376:ref:WP_049664555.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-YP_001389621|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
-gi:566055109:gb:AHC40857.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 NC_002745.3251084.p01|FEATURES|truncated_putative_response_regulator_ArlR|unclassified|truncated_putative_response_regulator_ArlR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	unclassified
-gi:944535691:ref:WP_055747198.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:860313338:ref:WP_048374247.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:926250866:ref:WP_053589133.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:664230376:ref:WP_030762986.1:|FEATURES|streptothricin_acetyltransferase|aminoglycoside|streptothricin_acetyltransferase	['nucleoside antibiotic']	aminoglycoside
 gi:950647379:ref:WP_057486511.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:507043215:ref:WP_016114558.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 HE999704.1.gene2674.p01|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 gi:194709354:gb:ACF88577.1:|FEATURES|bleomycin_resistance_protein|glycopeptide|bleomycin_resistance_protein	['beta-lactam antibiotic']	glycopeptide
-gi:498519697:ref:WP_010819589.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'pleuromutilin antibiotic']	MLS
 CAR58198|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 AAA48273|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 CAA42550|FEATURES|lmrA|MLS|lmrA	['rifamycin antibiotic', 'isoniazid-like antibiotic']	MLS
 NP_826974|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic']	tetracenomycin_C
 NP_671620|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:1007099473:ref:WP_061843909.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:445983935:ref:WP_000061790.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1031809986:ref:WP_064139870.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:916230870:ref:WP_050975032.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:487917313:ref:WP_001990779.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:938466753:ref:WP_054627812.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:550167391:ref:WP_022586684.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447201642:ref:WP_001278898.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:490350160:ref:WP_004229933.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:924348018:ref:WP_053483923.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1006184502:ref:WP_061741368.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:757444661:ref:WP_042741303.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:1032346815:ref:WP_064200323.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:1043542993:ref:WP_065386235.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_01788419|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:506326044:ref:WP_015845803.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446993877:ref:WP_001071133.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 B7N7S6|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:446993895:ref:WP_001071151.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 NC_007793.3912797.p01|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:672857082:gb:KFI00103.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 BAC58936|FEATURES|tet34|tetracycline|tet34	['beta-lactam antibiotic', 'beta-lactam antibiotic']	tetracycline
-gi:951389844:ref:WP_057765492.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002188856|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic']	tetracenomycin_C
 gi:554679166:ref:WP_023180168.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 YP_001175338|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 Q8FL96|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 ZP_04464540|FEATURES|PBP-1A|beta-lactam|PBP-1A	['glycopeptide antibiotic']	beta-lactam
-gi:445983923:ref:WP_000061778.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_001878864|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:447201622:ref:WP_001278878.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:749002628:ref:WP_040062280.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 YP_001476958|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:928780642:ref:WP_053862023.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:447201652:ref:WP_001278908.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-YP_001779894|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
-gi:727213453:ref:WP_033674693.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1033150958:ref:WP_064456700.1:|FEATURES|viomycin_phosphotransferase|aminoglycoside|viomycin_phosphotransferase	['peptide antibiotic']	aminoglycoside
 YP_002847275|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:1031796384:ref:WP_064136479.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:928799654:ref:WP_053871829.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:445983925:ref:WP_000061780.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983951:ref:WP_000061806.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:489430186:ref:WP_003335783.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447201485:ref:WP_001278741.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 YP_002196817|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic']	tetracenomycin_C
-gi:640690880:ref:WP_025115215.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002396141|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
 gi:447201644:ref:WP_001278900.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:1007411670:gb:AMQ72759.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
-gi:1004356300:ref:WP_061531279.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983920:ref:WP_000061775.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AAU01314|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:499592337:ref:WP_011273071.1:|FEATURES|tetB|tetracycline|tetB	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	tetracycline
 YP_002193132|FEATURES|tcmA|tetracenomycin_C|tcmA	['fluoroquinolone antibiotic']	tetracenomycin_C
 gi:1002526225:ref:WP_061390684.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:445983927:ref:WP_000061782.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:860350489:ref:WP_048392759.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983930:ref:WP_000061785.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ABX00596|FEATURES|lmrA|MLS|lmrA	['rifamycin antibiotic', 'isoniazid-like antibiotic']	MLS
-gi:496784101:ref:WP_009371362.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:499299025:ref:WP_010989975.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 gi:447201649:ref:WP_001278905.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:953356378:ref:WP_058006334.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446993878:ref:WP_001071134.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 ABZ80060|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
-gi:951399103:ref:WP_057773891.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 A7FMC1|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:445983922:ref:WP_000061777.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 CP000034.1.gene1340.p01|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:497610921:ref:WP_009925105.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 ZP_02698269|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:922777287:ref:WP_053374995.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:516130021:ref:WP_017560601.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:844766676:ref:WP_047933873.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:393806119:gb:EJD67473.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
-gi:517204321:ref:WP_018393139.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:307604997:emb:CBI41368.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 CP000647.1.gene3517.p01|FEATURES|bacterial_regulatory_protein_LuxR|unclassified|bacterial_regulatory_protein_LuxR	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	unclassified
-gi:445983949:ref:WP_000061804.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:657210059:ref:WP_029324453.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AAA67509|FEATURES|tcmA|tetracenomycin_C|tcmA	['macrolide antibiotic', 'disinfecting agents and antiseptics']	tetracenomycin_C
 gi:489818582:ref:WP_003722396.1:|FEATURES|cystathionine_beta-lyase_patB|unclassified|cystathionine_beta-lyase_patB	['beta-lactam antibiotic']	unclassified
 gi:446993908:ref:WP_001071164.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:763097172:ref:WP_043977684.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 P18644|FEATURES|thiostrepton_resistance_methylase_tsnR|unclassified|thiostrepton_resistance_methylase_tsnR	['peptide antibiotic']	unclassified
-gi:1028847734:ref:WP_064016697.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NC_003923.1003359.p01|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:447201637:ref:WP_001278893.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:446993875:ref:WP_001071131.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 YP_002039320|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:445983944:ref:WP_000061799.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:489438834:ref:WP_003344330.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:487032971:ref:WP_001625114.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
-gi:445983937:ref:WP_000061792.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:737454728:ref:WP_035434889.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:494883168:ref:WP_007609218.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 ZP_01813310|FEATURES|tet34|tetracycline|tet34	['lincosamide antibiotic']	tetracycline
-gi:1033309939:gb:OAS18676.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 CP004022.1.gene2827.p01|FEATURES|cAMP-regulatory_protein|unclassified|cAMP-regulatory_protein	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:1002519395:ref:WP_061390634.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:447201638:ref:WP_001278894.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 AAM13572|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 ZP_02197344|FEATURES|tet34|tetracycline|tet34	['beta-lactam antibiotic', 'beta-lactam antibiotic']	tetracycline
 NC_002745.1124031.p01|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:498485855:ref:WP_010787543.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
-YP_001785579|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:446993883:ref:WP_001071139.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 AF024666.2.gene7.p01|FEATURES|tetB|tetracycline|tetB	['aminocoumarin antibiotic']	tetracycline
 ZP_02902942|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:924355535:ref:WP_053488586.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:445983931:ref:WP_000061786.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:657632362:ref:WP_029442980.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002418004|FEATURES|tet34|tetracycline|tet34	['lincosamide antibiotic']	tetracycline
 Q56016|FEATURES|kasugamycin_resistance_protein_ksgA|aminoglycoside|kasugamycin_resistance_protein_ksgA	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	aminoglycoside
-gi:445983947:ref:WP_000061802.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 CP001918.1.gene1661.p01|FEATURES|DNA-binding_protein_H-NS|unclassified|DNA-binding_protein_H-NS	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	unclassified
 AAL73823|FEATURES|rifampin_resistance_protein|rifamycin|rifampin_resistance_protein	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	rifamycin
 gi:446993884:ref:WP_001071140.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:446993893:ref:WP_001071149.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
-gi:765018624:ref:WP_044584737.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
-gi:822524709:ref:WP_046954623.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1031778566:ref:WP_064126137.1:|FEATURES|fmtC|beta-lactam|fmtC	['peptide antibiotic']	beta-lactam
 gi:771454993:ref:WP_045149547.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
 gi:1021747353:gb:KZO85247.1:|FEATURES|cob(I)alamin_adenolsyltransferase|unclassified|cob(I)alamin_adenolsyltransferase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	unclassified
@@ -401,7 +285,6 @@ MEG_3446|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_muta
 MEG_3586|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	Lipopeptides
 MEG_3589|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	Lipopeptides
 MEG_3590|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	Lipopeptides
-MEG_3606|Drugs|MLS|Lincosamide_nucleotidyltransferases|LNUA	['lincosamide antibiotic', 'lincosamide antibiotic']	MLS
 MEG_3626|Drugs|Lipopeptides|Colistin-resistant_mutant|LPXA|RequiresSNPConfirmation	['phenicol antibiotic', 'phenicol antibiotic', 'phenicol antibiotic']	Lipopeptides
 MEG_3627|Drugs|Lipopeptides|Colistin-resistant_mutant|LPXC|RequiresSNPConfirmation	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic']	Lipopeptides
 MEG_3831|Drugs|Lipopeptides|Lysocin-resistant_mutant|MENA|RequiresSNPConfirmation	['beta-lactam antibiotic']	Lipopeptides

@@ -77,8 +77,8 @@ def analyze_loose_hits_tsv():
         "aminocoumarin antibiotic": ['novobiocin'],
         "nucleoside antibiotic": ['puromycin'],
         "rifamycin antibiotic": ['rifampin'],
-        "lincosamid antibiotic": ['lincosamide'],
-        "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B']
+        "lincosamide antibiotic": ['lincosamide', 'MLS'],
+        "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B', 'MLS']
     }
     
     metals = ['mercury_resistance', 'multi-metal_resistance', 'tellurium_resistance', 'tellurium', 'arsenic', 'cadmium', 'copper', 'mercury', 'nickel', 'copper/silver', 'silver', 'cadmium/cobalt/nickel', 'chromate']

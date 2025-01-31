@@ -37,6 +37,7 @@ gi:545231548:ref:WP_021531156.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:1031851380:ref:WP_064173626.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 YP_002040143|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:829798578:ref:WP_047349012.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+HE999704.1.gene1047.p01|FEATURES|msrA|MLS|msrA	['lincosamide antibiotic']	MLS
 gi:1011917778:ref:WP_062729839.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:446053005:ref:WP_000130860.1:|FEATURES|mdtD|multidrug|mdtD	['fluoroquinolone antibiotic']	multidrug
 gi:502669650:ref:WP_012905508.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -136,6 +137,7 @@ gi:487383142:ref:WP_001655331.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:487381789:ref:WP_001654151.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:898303707:ref:WP_049581793.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:507050365:ref:WP_016121371.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:738205817:ref:WP_036161732.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:844773046:ref:WP_047936044.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:949722929:ref:WP_057066295.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:1036316000:gb:OAZ59366.1:|FEATURES|ykkC|multidrug|ykkC	['aminoglycoside antibiotic', 'tetracycline antibiotic', 'phenicol antibiotic']	multidrug
@@ -144,6 +146,7 @@ gi:516771669:ref:WP_018093204.1:|FEATURES|aph(6)-I|aminoglycoside|aph(6)-I	['ami
 gi:694097275:ref:WP_032441341.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:447124495:ref:WP_001201751.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 AAD42181|FEATURES|vanS|glycopeptide|vanS	['glycopeptide antibiotic', 'glycopeptide antibiotic']	glycopeptide
+gi:445983943:ref:WP_000061798.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1016942913:ref:WP_063144441.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ZP_04620400|FEATURES|acrB|multidrug|acrB	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics', 'disinfecting agents and antiseptics']	multidrug
 gi:754493746:ref:WP_041910641.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -156,6 +159,7 @@ gi:446110269:ref:WP_000188124.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:920465160:ref:WP_052991191.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1036666949:ref:WP_064720082.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic']	beta-lactam
 CAO91609|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:542004148:gb:ERH50104.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:696402390:ref:WP_032974230.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:928802998:ref:WP_053873428.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:518922571:ref:WP_020078446.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
@@ -190,6 +194,7 @@ gi:827011098:ref:WP_047173610.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 YP_001563294|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:923067667:ref:WP_053451316.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:488216250:ref:WP_002287458.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+gi:488216250:ref:WP_002287458.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 gi:488873062:ref:WP_002785287.1:|FEATURES|cmeA|multidrug|cmeA	['macrolide antibiotic', 'beta-lactam antibiotic', 'fusidane antibiotic']	multidrug
 gi:736472622:ref:WP_034494292.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1016944108:ref:WP_063145594.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -212,6 +217,7 @@ gi:496018010:ref:WP_008742581.1:|FEATURES|multidrug_ABC_transporter|multidrug|mu
 P14677|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:486157188:ref:WP_001520903.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:260409568:gb:EEX02869.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:1044618389:gb:OCB92939.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 ZP_03984017|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:490295685:ref:WP_004191149.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:857586085:emb:CRL63205.1:|FEATURES|mdtA|multidrug|mdtA	['aminocoumarin antibiotic']	multidrug
@@ -300,6 +306,8 @@ gi:485729239:ref:WP_001357227.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiot
 gi:912665164:ref:WP_050223954.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 gi:696362228:ref:WP_032937374.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:559225332:ref:WP_023581116.1:|FEATURES|emrA|multidrug|emrA	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	multidrug
+KC539823.1.gene1.p01|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
+KC539823.1.gene1.p01|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:916175797:ref:WP_050962563.1:|FEATURES|mecR1|beta-lactam|mecR1	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:446669123:ref:WP_000746469.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:695821515:ref:WP_032735190.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
@@ -369,6 +377,7 @@ gi:322509575:gb:ADX05029.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiot
 gi:1031828806:ref:WP_064155414.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:1007092407:ref:WP_061843275.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 AF336096.1.gene1.p01|FEATURES|omp36|multidrug|omp36	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
+gi:445983932:ref:WP_000061787.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1031862523:ref:WP_064180367.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:1039621810:ref:WP_064935627.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:364568766:gb:EHM46406.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -381,6 +390,7 @@ gi:447077018:ref:WP_001154274.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 gi:970842095:pdb:5BOH:A|FEATURES|OXA-58|beta-lactam|OXA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:365748673:gb:AEW72900.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 ZP_04431003|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:445983921:ref:WP_000061776.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 B7NF27|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 YP_001116030|FEATURES|opcM|multidrug|opcM	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic']	multidrug
 gi:545009561:emb:CCW75881.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -497,6 +507,7 @@ CAD70592|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam 
 gi:555254265:ref:WP_023237472.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:757862544:gb:KIS40949.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:754932478:ref:WP_042289286.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:1005558399:ref:WP_061655514.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:694073280:ref:WP_032419142.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 AAP46607|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 ACF30471|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -510,6 +521,7 @@ gi:851899991:ref:WP_048211221.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:555230037:ref:WP_023217515.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:589404321:gb:EXG88953.1:|FEATURES|TolC|multidrug|TolC	['disinfecting agents and antiseptics']	multidrug
 gi:554684122:ref:WP_023184036.1:|FEATURES|mdtN|multidrug|mdtN	['nucleoside antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:499132967:ref:WP_010860999.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447124499:ref:WP_001201755.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 CAJ93947|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:503936714:ref:WP_014170708.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
@@ -591,6 +603,7 @@ gi:485866194:ref:WP_001464399.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone 
 YP_002707503|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 YP_001477377|FEATURES|rosB|fosmidomycin|rosB	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	fosmidomycin
 gi:766778270:ref:WP_044845762.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
+gi:817727729:ref:WP_046680744.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:764460710:ref:WP_044374558.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ACG58975|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 gi:1031818725:ref:WP_064146978.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -604,6 +617,7 @@ gi:693079149:ref:WP_032241520.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-lik
 gi:691159922:ref:WP_032067808.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:1039597595:ref:WP_064914787.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 YP_002100652|FEATURES|opcM|multidrug|opcM	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic']	multidrug
+gi:1005577494:ref:WP_061669299.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1016530977:ref:WP_063106245.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:912614197:ref:WP_050196089.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:691112668:ref:WP_032033542.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -639,6 +653,7 @@ YP_002225954|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:445996714:ref:WP_000074569.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:812045371:emb:CRH28493.1:|FEATURES|acrB|multidrug|acrB	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics', 'disinfecting agents and antiseptics']	multidrug
 YP_002385033|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
+gi:498488199:ref:WP_010789887.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:693113188:ref:WP_032264335.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 YP_302113|FEATURES|norA|multidrug|norA	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:751930064:ref:WP_041144772.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -759,6 +774,7 @@ Q9KIN5|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic'
 gi:757742704:ref:WP_042966294.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:447097716:ref:WP_001174972.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:32345862:gb:AAM97225.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+YP_002861121|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:1028168203:ref:WP_063916724.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:503836758:ref:WP_014070752.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:446110272:ref:WP_000188127.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -844,6 +860,7 @@ YP_698526|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiot
 gi:983302677:ref:WP_060488987.1:|FEATURES|vanR|glycopeptide|vanR	['glycopeptide antibiotic']	glycopeptide
 gi:748767925:ref:WP_040019608.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:507035724:ref:WP_016107411.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:738272573:ref:WP_036227195.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1005410900:ref:WP_061640132.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 HE999704.1.gene3084.p01|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:486422571:ref:WP_001613499.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
@@ -867,6 +884,7 @@ EEQ96502|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibioti
 gi:487679889:ref:WP_001764755.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:510927091:ref:WP_016247806.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:857586340:emb:CRL61725.1:|FEATURES|acrA|multidrug|acrA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:494215524:ref:WP_007131565.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:912864546:ref:WP_050299934.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 NC_009085.4919117.p01|FEATURES|adeB|multidrug|adeB	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:486175290:ref:WP_001535462.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
@@ -910,6 +928,7 @@ gi:445959316:ref:WP_000037171.1:|FEATURES|tetR|tetracycline|tetR	['macrolide ant
 gi:397744192:gb:EJK91404.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:513038238:ref:WP_016506266.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:1039950884:ref:WP_065019937.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:445983919:ref:WP_000061774.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NC_002952.2859362.p01|FEATURES|major_facilitator_superfamily_transporter|multidrug|major_facilitator_superfamily_transporter	['lincosamide antibiotic', 'nucleoside antibiotic']	multidrug
 gi:1022678038:ref:WP_063433938.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 YP_001583349|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
@@ -938,12 +957,14 @@ gi:695807502:ref:WP_032721508.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 BAA06252|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:749043043:ref:WP_040088746.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:746752493:ref:WP_039698519.1:|FEATURES|mecR1|beta-lactam|mecR1	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:1003765182:ref:WP_061463312.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:920546283:ref:WP_052998194.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:976146774:ref:WP_059305359.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 AY216678.1.gene1.p01|FEATURES|aac(3)-IV|aminoglycoside|aac(3)-IV	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	aminoglycoside
 AAA25465|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:694090431:ref:WP_032435131.1:|FEATURES|mexX|multidrug|mexX	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:486203584:ref:WP_001550897.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:983301550:ref:WP_060487860.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:486161502:ref:WP_001525103.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:503132047:ref:WP_013366708.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:353564357:gb:EHC30455.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
@@ -954,6 +975,7 @@ gi:1035686596:ref:WP_064530178.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic'
 gi:554963910:ref:WP_023208234.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:555286822:ref:WP_023261408.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:942503284:ref:WP_055335444.1:|FEATURES|mexC|multidrug|mexC	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
+gi:651595894:ref:WP_026590859.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446110285:ref:WP_000188140.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446571418:ref:WP_000648764.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 YP_001140148|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -1028,6 +1050,8 @@ gi:494943339:ref:WP_007669367.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:693155715:ref:WP_032292156.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_002386378|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:489863287:ref:WP_003766901.1:|FEATURES|mdtK|multidrug|mdtK	['aminoglycoside antibiotic', 'disinfecting agents and antiseptics', 'disinfecting agents and antiseptics']	multidrug
+AAG08983|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
+AAG08983|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 ZP_02889084|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:657833983:ref:WP_029550132.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:269144622:gb:EEZ71040.1:|FEATURES|mtrR|multidrug|mtrR	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -1199,6 +1223,7 @@ gi:639206639:ref:WP_024544906.1:|FEATURES|aac(3)-I|aminoglycoside|aac(3)-I	['ami
 gi:485854416:ref:WP_001456174.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:779872430:ref:WP_045357092.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 B7LQA4|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:1008199138:ref:WP_061860513.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:920538074:ref:WP_052996048.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:1004170896:gb:AMP19672.1:|FEATURES|mtrR|multidrug|mtrR	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:764394645:ref:WP_044347915.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -1208,6 +1233,7 @@ gi:493174660:ref:WP_006176120.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 gi:488864031:ref:WP_002776270.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:515968238:ref:WP_017398821.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:757577038:ref:WP_042830901.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic']	beta-lactam
+gi:937111451:ref:WP_054550161.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:695704613:ref:WP_032640551.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 ZP_04615639|FEATURES|rosB|fosmidomycin|rosB	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	fosmidomycin
 gi:727407986:ref:WP_033815909.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -1244,10 +1270,12 @@ gi:447097685:ref:WP_001174941.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone 
 gi:502670353:ref:WP_012906198.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:910049557:ref:WP_049978118.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic']	beta-lactam
 AAP46620|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:915546417:ref:WP_050844389.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:487043224:ref:WP_001625339.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:488898721:ref:WP_002809818.1:|FEATURES|cmeB|multidrug|cmeB	['macrolide antibiotic', 'beta-lactam antibiotic', 'fusidane antibiotic']	multidrug
 gi:495026711:ref:WP_007752286.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 ZP_00946143|FEATURES|mexC|multidrug|mexC	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
+gi:1027702639:ref:WP_063637955.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:746474916:ref:WP_039513072.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 Q03680|FEATURES|class_D|beta-lactam|class_D	['beta-lactam antibiotic']	beta-lactam
 gi:488918619:ref:WP_002829694.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1257,6 +1285,7 @@ gi:488868725:ref:WP_002780964.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 YP_001811889|FEATURES|opcM|multidrug|opcM	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic']	multidrug
 gi:835665283:ref:WP_047605625.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:505177635:ref:WP_015364737.1:|FEATURES|mepA|multidrug|mepA	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
+gi:445983946:ref:WP_000061801.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AAA62061|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:487501904:ref:WP_001704583.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:1020118981:ref:WP_063252810.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1294,6 +1323,7 @@ gi:692979871:ref:WP_032170064.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiot
 YP_002114946|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:943909899:ref:WP_055545300.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 AY004350.gene.p01|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+AY004350.gene.p01|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 gi:738462527:ref:WP_036413340.1:|FEATURES|tetC|tetracycline|tetC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'diaminopyrimidine antibiotic', 'diaminopyrimidine antibiotic', 'sulfonamide antibiotic', 'phenicol antibiotic']	tetracycline
 gi:803568669:ref:WP_046077412.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:445996724:ref:WP_000074579.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -1307,6 +1337,7 @@ gi:723059650:ref:WP_033554081.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone 
 gi:693104039:ref:WP_032258261.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:545160133:ref:WP_021515043.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:445996695:ref:WP_000074550.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:924337096:ref:WP_053474708.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:556463948:ref:WP_023315739.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:499261455:ref:WP_010958995.1:|FEATURES|mdtH|multidrug|mdtH	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'streptogramin antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:555257124:ref:WP_023239878.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1314,6 +1345,7 @@ gi:1041907918:ref:WP_065242246.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone
 gi:507086196:ref:WP_016156937.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:493954677:ref:WP_006898419.1:|FEATURES|acrB|multidrug|acrB	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:486319159:ref:WP_001581318.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
+YP_002201843|FEATURES|ermE|MLS|ermE	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic']	MLS
 YP_002201843|FEATURES|ermE|MLS|ermE	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic']	MLS
 gi:516364340:ref:WP_017754373.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 CAO91620|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -1355,6 +1387,7 @@ gi:981222342:ref:WP_059443655.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:754697027:ref:WP_042073841.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:496666180:ref:WP_009308670.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:902507037:ref:WP_049597664.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:738121094:ref:WP_036079133.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446900661:ref:WP_000977917.1:|FEATURES|ompF|multidrug|ompF	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 NC_010400.5984123.p01|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:502961756:ref:WP_013196732.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -1459,12 +1492,14 @@ gi:554679680:ref:WP_023180661.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 AAP46622|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:488067981:ref:WP_002139378.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:490371774:ref:WP_004251378.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:631799622:gb:AHZ14287.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:490375495:ref:WP_004255096.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 BAH17153|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:972325822:ref:WP_058982820.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:772657929:ref:WP_045281252.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:895895864:ref:WP_048997630.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:486390050:ref:WP_001602088.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:950274036:ref:WP_057309929.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:927316410:ref:WP_053810568.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:695891735:ref:WP_032792824.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:754608317:ref:WP_041998010.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
@@ -1557,6 +1592,7 @@ gi:926400371:ref:WP_053728483.1:|FEATURES|multidrug_ABC_transporter|multidrug|mu
 gi:970299366:ref:WP_058671312.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:446110294:ref:WP_000188149.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:976090872:ref:WP_059295021.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:655143626:ref:WP_028590425.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:895899849:ref:WP_049000782.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:896624353:ref:WP_049505786.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 gi:647265103:ref:WP_025712980.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1574,6 +1610,7 @@ gi:489040504:ref:WP_002950827.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:691115933:ref:WP_032036329.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:487371591:ref:WP_001645328.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:1001947541:ref:WP_061357412.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:1008988570:ref:WP_061884457.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:556476567:ref:WP_023328168.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:565630130:ref:WP_023894390.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:32345836:gb:AAM97212.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -1626,6 +1663,7 @@ gi:1017024088:ref:WP_063159864.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic'
 gi:555072574:gb:ESM16726.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 ZP_03823622|FEATURES|adeB|multidrug|adeB	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:694071914:ref:WP_032417856.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:926256269:ref:WP_053594535.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:896534788:ref:WP_049437465.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:32345874:gb:AAM97231.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:486426243:ref:WP_001614922.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
@@ -1658,6 +1696,7 @@ gi:447077015:ref:WP_001154271.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 gi:490876100:ref:WP_004738098.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:695722592:ref:WP_032649220.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:487407563:ref:WP_001675578.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
+gi:488103652:ref:WP_002175049.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446110336:ref:WP_000188191.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:495112610:ref:WP_007837430.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 gi:446669097:ref:WP_000746443.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1723,6 +1762,7 @@ YP_002847505|FEATURES|mdtF|multidrug|mdtF	['macrolide antibiotic', 'fluoroquinol
 gi:975886866:ref:WP_059288119.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:686372902:ref:WP_031896639.1:|FEATURES|mecR1|beta-lactam|mecR1	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:910779715:ref:WP_050085377.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:445983948:ref:WP_000061803.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:489799061:ref:WP_003702952.1:|FEATURES|mtrR|multidrug|mtrR	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:782725937:ref:WP_045620525.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:895949336:ref:WP_049036297.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -1734,7 +1774,9 @@ gi:939336245:ref:WP_054882360.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lac
 gi:447097700:ref:WP_001174956.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:895861652:ref:WP_048971854.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:852039766:ref:WP_048264469.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
+gi:759011154:ref:WP_043070402.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:445959306:ref:WP_000037161.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
+gi:506990141:ref:WP_016080735.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:391322939:gb:EIQ79610.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:558088995:ref:WP_023481339.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 YP_002741884|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -1767,6 +1809,7 @@ gi:553941003:ref:WP_023147955.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiot
 YP_002100653|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:745769100:ref:WP_039065325.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 AAF17269|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:1024915484:ref:WP_063548266.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 AAP46621|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:489922738:ref:WP_003826085.1:|FEATURES|mdtF|multidrug|mdtF	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:692988229:ref:WP_032177096.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -1826,6 +1869,7 @@ gi:555258324:ref:WP_023240897.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:485856982:ref:WP_001457838.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:519083930:ref:WP_020239805.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:487533387:ref:WP_001711656.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:445983926:ref:WP_000061781.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:749314681:ref:WP_040138758.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:447077033:ref:WP_001154289.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:488395528:ref:WP_002464913.1:|FEATURES|norA|multidrug|norA	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -1844,6 +1888,7 @@ gi:515610071:ref:WP_017042671.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 YP_002242988|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:764951644:ref:WP_044521907.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_001880923|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:938181371:ref:WP_054611487.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1005616587:ref:WP_061695226.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:692974498:ref:WP_032166642.1:|FEATURES|tetC|tetracycline|tetC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'diaminopyrimidine antibiotic', 'diaminopyrimidine antibiotic', 'sulfonamide antibiotic', 'phenicol antibiotic']	tetracycline
 YP_002384997|FEATURES|emrD|multidrug|emrD	['bicyclomycin-like antibiotic']	multidrug
@@ -1864,6 +1909,8 @@ gi:970275554:ref:WP_058656073.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:691154604:ref:WP_032065245.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:490227506:ref:WP_004125856.1:|FEATURES|mexX|multidrug|mexX	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:1016489139:ref:WP_063079000.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+YP_002332257|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
+YP_002332257|FEATURES|vgaA|MLS|vgaA	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:1031824807:ref:WP_064152164.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446783028:ref:WP_000860284.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:695795987:ref:WP_032710193.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
@@ -1954,6 +2001,7 @@ ZP_04656349|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lact
 gi:485888634:ref:WP_001481719.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:909634014:ref:WP_049883167.1:|FEATURES|emrA|multidrug|emrA	['fluoroquinolone antibiotic']	multidrug
 gi:664304639:ref:WP_030834011.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
+gi:558693259:ref:WP_023522676.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002633428|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:447046958:ref:WP_001124214.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:990930490:emb:CWV83521.1:|FEATURES|mdtH|multidrug|mdtH	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'streptogramin antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
@@ -2002,6 +2050,7 @@ gi:571626570:gb:ETQ18431.1:|FEATURES|TolC|multidrug|TolC	['disinfecting agents a
 gi:583596984:gb:EWE59955.1:|FEATURES|OXA-9|beta-lactam|OXA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:1005528765:ref:WP_061650059.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:983189459:ref:WP_060465283.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:817536927:ref:WP_046586836.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:779958640:ref:WP_045406001.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:970301657:ref:WP_058672678.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:1044264460:emb:SCA03766.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -2068,9 +2117,11 @@ YP_581244|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiot
 gi:647286495:ref:WP_025731577.1:|FEATURES|vanZ|glycopeptide|vanZ	['glycopeptide antibiotic', 'glycopeptide antibiotic']	glycopeptide
 CP001918.1.gene3442.p01|FEATURES|mdtE|multidrug|mdtE	['tetracycline antibiotic']	multidrug
 YP_002848923|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:517597104:ref:WP_018767312.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 CP000768.1.gene1024.p01|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:738463945:ref:WP_036414705.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:1031842905:ref:WP_064166823.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
+gi:755162121:ref:WP_042511261.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:488950235:ref:WP_002861310.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:835233760:ref:WP_047410070.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 YP_791220|FEATURES|mexX|multidrug|mexX	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -2108,6 +2159,7 @@ gi:739100685:ref:WP_036971354.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:446048019:ref:WP_000125874.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:490834801:ref:WP_004696885.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic']	multidrug
 gi:358234663:dbj:GAB02427.1:|FEATURES|ompR|multidrug|ompR	['beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
+gi:1031496106:ref:WP_064100483.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:491002433:ref:WP_004864155.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:486325978:ref:WP_001583164.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:686376836:ref:WP_031898302.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
@@ -2141,6 +2193,8 @@ gi:896106549:ref:WP_049136608.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 ZP_02901431|FEATURES|emrD|multidrug|emrD	['bicyclomycin-like antibiotic']	multidrug
 gi:895859668:ref:WP_048970096.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446601466:ref:WP_000678812.1:|FEATURES|mdtA|multidrug|mdtA	['aminocoumarin antibiotic']	multidrug
+gi:1036324608:gb:OAZ67878.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
+gi:517611899:ref:WP_018782107.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:556477098:ref:WP_023328694.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 ZP_04049838|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 YP_894098|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -2269,6 +2323,7 @@ gi:447077010:ref:WP_001154266.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 YP_002236533|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:493959393:ref:WP_006902972.1:|FEATURES|acrB|multidrug|acrB	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:970309907:ref:WP_058679282.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:749294836:ref:WP_040119491.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:447046967:ref:WP_001124223.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:486269586:ref:WP_001567765.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 ZP_02901234|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
@@ -2276,6 +2331,7 @@ ZP_04626871|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibi
 gi:896019188:ref:WP_049081810.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:827010229:ref:WP_047172742.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:639213466:ref:WP_024551355.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:495453058:ref:WP_008177752.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:505218887:ref:WP_015405989.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:827010597:ref:WP_047173109.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:507068488:ref:WP_016139267.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2297,6 +2353,7 @@ gi:835746505:ref:WP_047645766.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:798813284:ref:WP_045887634.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:916083122:ref:WP_050955144.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:1036907773:ref:WP_064732565.1:|FEATURES|bleomycin_resistance_protein|glycopeptide|bleomycin_resistance_protein	['glycopeptide antibiotic']	glycopeptide
+gi:950193886:ref:WP_057240777.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:495776244:ref:WP_008500823.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:446783020:ref:WP_000860276.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 ZP_04216757|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -2359,6 +2416,7 @@ gi:749001841:ref:WP_040061784.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:696361066:ref:WP_032936216.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:488120365:ref:WP_002191762.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:491178513:ref:WP_005036876.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:371566923:emb:CCF03773.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 AAF17270|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:489749743:ref:WP_003653752.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:446669106:ref:WP_000746452.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2368,6 +2426,7 @@ gi:1039593328:ref:WP_064911753.1:|FEATURES|tetR|tetracycline|tetR	['macrolide an
 ZP_04167983|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:1031822889:ref:WP_064150402.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:652975683:ref:WP_027228387.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:640724631:ref:WP_025147673.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:746482713:ref:WP_039520502.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446110308:ref:WP_000188163.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:488995429:ref:WP_002906142.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2377,9 +2436,11 @@ gi:1002465273:ref:WP_061387297.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone
 YP_543187|FEATURES|emrD|multidrug|emrD	['bicyclomycin-like antibiotic']	multidrug
 gi:487367794:ref:WP_001641971.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 ZP_04156234|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:445983936:ref:WP_000061791.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:919568551:ref:WP_052871170.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:657613342:ref:WP_029424398.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:545249103:ref:WP_021547424.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+YP_001419928|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 CAA70425|FEATURES|mecA|beta-lactam|mecA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:928834186:ref:WP_053890508.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:751930245:ref:WP_041144953.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -2392,6 +2453,7 @@ gi:585368561:ref:WP_024250139.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:554966800:ref:WP_023210727.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:992390012:ref:WP_061077002.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:948024668:ref:WP_056683930.1:|FEATURES|vanR|glycopeptide|vanR	['glycopeptide antibiotic']	glycopeptide
+gi:516373453:ref:WP_017763486.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:488931692:ref:WP_002842767.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:763064330:ref:WP_043946082.1:|FEATURES|mexC|multidrug|mexC	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:504427471:ref:WP_014614573.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -2483,6 +2545,7 @@ YP_002850162|FEATURES|bicyclomycin-multidrug_efflux_protein_bcr|multidrug|bicycl
 gi:948040364:ref:WP_056699531.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:500465078:gb:EOP76697.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:780027477:ref:WP_045442423.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:1030030526:gb:ANF35167.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:507086291:ref:WP_016157032.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:835330222:ref:WP_047457828.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:545295454:ref:WP_021575742.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
@@ -2518,6 +2581,7 @@ gi:924455634:ref:WP_053495159.1:|FEATURES|metallo-beta-lactamase|beta-lactam|met
 gi:489246603:ref:WP_003154767.1:|FEATURES|ykkC|multidrug|ykkC	['aminoglycoside antibiotic', 'tetracycline antibiotic', 'phenicol antibiotic']	multidrug
 gi:951351507:ref:WP_057729122.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:488247627:ref:WP_002318835.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+gi:488247627:ref:WP_002318835.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 gi:949707509:ref:WP_057058761.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:823287018:ref:WP_047043046.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:898214167:emb:CPR44997.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2528,6 +2592,7 @@ gi:365748854:gb:AEW73081.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antib
 gi:488172572:ref:WP_002243780.1:|FEATURES|mtrE|multidrug|mtrE	['macrolide antibiotic', 'macrolide antibiotic']	multidrug
 gi:763182672:ref:WP_044061609.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:555222481:ref:WP_023215070.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:445983950:ref:WP_000061805.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446783041:ref:WP_000860297.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 A1AHP3|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:487974404:ref:WP_002047279.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
@@ -2576,6 +2641,7 @@ gi:823281237:ref:WP_047037467.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:1031874524:ref:WP_064189330.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:555228127:ref:WP_023215954.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 EU408347.1.gene6.p01|FEATURES|EmrB-QacA_family_major_facilitator_transporter|multidrug|EmrB-QacA_family_major_facilitator_transporter	['antibacterial free fatty acids', 'antibacterial free fatty acids', 'antibacterial free fatty acids']	multidrug
+gi:902795376:ref:WP_049664555.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:647318514:ref:WP_025755838.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:754837306:ref:WP_042199190.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:890454542:ref:WP_048887938.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -2595,10 +2661,13 @@ gi:924467705:ref:WP_053498889.1:|FEATURES|metallo-beta-lactamase|beta-lactam|met
 gi:749017716:ref:WP_040076354.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1002398650:ref:WP_061381408.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:446712779:ref:WP_000790123.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+YP_001389621|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 gi:697052593:ref:WP_033145199.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:730730194:ref:WP_034084720.1:|FEATURES|mexE|multidrug|mexE	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'diaminopyrimidine antibiotic', 'phenicol antibiotic']	multidrug
 gi:446519884:ref:WP_000597230.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:979540828:ref:WP_059340323.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:566055109:gb:AHC40857.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
+gi:944535691:ref:WP_055747198.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:655401130:ref:WP_028800283.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 AAF17263|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 ABJ55333|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -2614,6 +2683,7 @@ gi:556493018:ref:WP_023340732.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:488189171:ref:WP_002260379.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:446783030:ref:WP_000860286.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:491270241:ref:WP_005128370.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:860313338:ref:WP_048374247.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:693208641:ref:WP_032328024.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 YP_608682|FEATURES|mexD|multidrug|mexD	['macrolide antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'aminocoumarin antibiotic', 'diaminopyrimidine antibiotic', 'phenicol antibiotic']	multidrug
 CP001918.1.gene2608.p01|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
@@ -2634,6 +2704,7 @@ YP_001811891|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:942456329:ref:WP_055316401.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:488438959:ref:WP_002508344.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:447097675:ref:WP_001174931.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:926250866:ref:WP_053589133.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:693106883:ref:WP_032260279.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:829908959:ref:WP_047362283.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:554277680:gb:ESH13448.1:|FEATURES|acrB|multidrug|acrB	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
@@ -2664,6 +2735,7 @@ gi:446657984:ref:WP_000735330.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:695731408:ref:WP_032657917.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:950164608:ref:WP_057214157.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_001396002|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
+gi:507043215:ref:WP_016114558.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:545287298:ref:WP_021570298.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:504386742:ref:WP_014573844.1:|FEATURES|mtrE|multidrug|mtrE	['macrolide antibiotic', 'macrolide antibiotic']	multidrug
 gi:896011902:ref:WP_049076646.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -2701,6 +2773,8 @@ ZP_03065389|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446048045:ref:WP_000125900.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:835769681:ref:WP_047655667.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 ZP_04433866|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
+gi:498519697:ref:WP_010819589.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'pleuromutilin antibiotic']	MLS
+gi:498519697:ref:WP_010819589.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:803576054:ref:WP_046082052.1:|FEATURES|mdtN|multidrug|mdtN	['nucleoside antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:763189914:ref:WP_044067152.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:976152398:ref:WP_059310593.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -2807,6 +2881,7 @@ AF336097.1.gene1.p01|FEATURES|omp36|multidrug|omp36	['beta-lactam antibiotic', '
 gi:446657995:ref:WP_000735341.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:485748040:ref:WP_001374292.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:550712535:ref:WP_022645444.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:445983935:ref:WP_000061790.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446783006:ref:WP_000860262.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:686390277:ref:WP_031905440.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 ZP_04210257|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -2826,6 +2901,7 @@ gi:486030393:ref:WP_001504858.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-lik
 gi:555258323:ref:WP_023240896.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:693191123:ref:WP_032314545.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:691141184:ref:WP_032054411.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:487917313:ref:WP_001990779.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:857776688:emb:CRL63266.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:486297079:ref:WP_001574734.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:1035743977:ref:WP_064579073.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -2833,6 +2909,7 @@ gi:639225172:ref:WP_024561671.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:1004170898:gb:AMP19673.1:|FEATURES|mtrR|multidrug|mtrR	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:26107304:gb:AAN79487.1:AE016758_91|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:487389998:ref:WP_001661470.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
+gi:550167391:ref:WP_022586684.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:910959796:ref:WP_050145866.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:691008264:ref:WP_031972812.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic']	multidrug
 gi:490841007:ref:WP_004703082.1:|FEATURES|mexT|multidrug|mexT	['fluoroquinolone antibiotic', 'diaminopyrimidine antibiotic', 'phenicol antibiotic']	multidrug
@@ -2856,6 +2933,8 @@ YP_001416709|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antib
 gi:486178750:ref:WP_001537184.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:740943211:ref:WP_038728217.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:896322636:ref:WP_049292215.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:490350160:ref:WP_004229933.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
+gi:924348018:ref:WP_053483923.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1031823249:ref:WP_064150762.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:895964662:ref:WP_049044610.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:556489278:ref:WP_023337008.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2865,6 +2944,7 @@ gi:32345894:gb:AAM97241.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiot
 gi:485860032:ref:WP_001459624.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:852292746:ref:WP_048332551.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1027715768:ref:WP_063649736.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
+gi:1032346815:ref:WP_064200323.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:487508322:ref:WP_001706332.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:487410704:ref:WP_001678420.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:490232554:ref:WP_004130894.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2880,6 +2960,7 @@ gi:556235879:ref:WP_023284905.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:779852631:ref:WP_045348970.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_001401994|FEATURES|rosB|fosmidomycin|rosB	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	fosmidomycin
 gi:692982529:ref:WP_032172401.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:1043542993:ref:WP_065386235.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:912537314:ref:WP_050178994.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:487441379:ref:WP_001689836.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:823311063:ref:WP_047065547.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -2916,6 +2997,7 @@ gi:1033062272:ref:WP_064373401.1:|FEATURES|TolC|multidrug|TolC	['macrolide antib
 gi:585348435:ref:WP_024230052.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_001572785|FEATURES|emrD|multidrug|emrD	['phenicol antibiotic']	multidrug
 gi:1027678792:ref:WP_063617836.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:506326044:ref:WP_015845803.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_03552050|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 ZP_04623431|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 CP000034.1.gene4157.p01|FEATURES|emrD|multidrug|emrD	['bicyclomycin-like antibiotic']	multidrug
@@ -3056,6 +3138,7 @@ DQ018711.1.gene8.p01|FEATURES|vanZ|glycopeptide|vanZ	['glycopeptide antibiotic',
 ZP_03949893|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:798818196:ref:WP_045888201.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:739091311:ref:WP_036962270.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:951389844:ref:WP_057765492.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:1040984999:ref:WP_065184564.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:510923671:ref:WP_016244456.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ZP_02365020|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
@@ -3067,6 +3150,7 @@ gi:555234912:ref:WP_023221577.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:503994625:ref:WP_014228619.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:694080094:ref:WP_032425292.1:|FEATURES|mexX|multidrug|mexX	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:695801670:ref:WP_032715841.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:488231473:ref:WP_002302681.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 gi:488231473:ref:WP_002302681.1:|FEATURES|msrC|MLS|msrC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 gi:695818956:ref:WP_032732770.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:823101327:ref:WP_047023594.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -3113,6 +3197,7 @@ EDK70037|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lac
 gi:782700886:ref:WP_045611431.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ABO60998|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 ABO60988|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
+gi:445983923:ref:WP_000061778.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:693158925:ref:WP_032294786.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:504656419:ref:WP_014843521.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 CP001918.1.gene2596.p01|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -3188,6 +3273,7 @@ gi:742814992:ref:WP_038979779.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:486404556:ref:WP_001607766.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:908715920:ref:WP_049847444.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:779792189:ref:WP_045326853.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
+YP_001779894|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 YP_001176066|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiotic', 'phenicol antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:851967492:ref:WP_048235656.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:779909859:ref:WP_045377735.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -3198,6 +3284,7 @@ YP_001434323|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antib
 gi:820953782:ref:WP_046811405.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:695696550:ref:WP_032637005.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:486210904:ref:WP_001555037.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:727213453:ref:WP_033674693.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:313635905:gb:EFS01863.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:489120646:ref:WP_003030480.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:504870756:ref:WP_015057858.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
@@ -3277,6 +3364,7 @@ gi:1043031651:ref:WP_065315223.1:|FEATURES|bleomycin_resistance_protein|glycopep
 gi:1022688710:ref:WP_063443532.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ZP_03053667|FEATURES|major_facilitator_superfamily_transporter|multidrug|major_facilitator_superfamily_transporter	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:446669115:ref:WP_000746461.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:445983925:ref:WP_000061780.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:554961629:ref:WP_023206204.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:823309640:ref:WP_047064288.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:691062131:ref:WP_032005587.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -3287,6 +3375,7 @@ gi:739105364:ref:WP_036975833.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:753782858:ref:WP_041538501.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:545247983:ref:WP_021546369.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:556259963:ref:WP_023287443.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:445983951:ref:WP_000061806.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_04661876|FEATURES|adeB|multidrug|adeB	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:694065160:ref:WP_032411643.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:938459680:ref:WP_054624016.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -3324,6 +3413,7 @@ gi:556469950:ref:WP_023321698.1:|FEATURES|mexX|multidrug|mexX	['fluoroquinolone 
 gi:493734856:ref:WP_006684076.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:556492128:ref:WP_023339842.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 BAA07084|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
+gi:489430186:ref:WP_003335783.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:488866044:ref:WP_002778283.1:|FEATURES|cmeA|multidrug|cmeA	['macrolide antibiotic', 'beta-lactam antibiotic', 'fusidane antibiotic']	multidrug
 CP003583.1.gene2512.p01|FEATURES|adeC|multidrug|adeC	['diaminopyrimidine antibiotic']	multidrug
 gi:544824889:ref:WP_021240890.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -3381,6 +3471,7 @@ gi:515184383:ref:WP_016803720.1:|FEATURES|tetR|tetracycline|tetR	['macrolide ant
 gi:446008144:ref:WP_000085999.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:487940835:ref:WP_002014301.1:|FEATURES|TolC|multidrug|TolC	['disinfecting agents and antiseptics']	multidrug
 gi:798937928:ref:WP_045908399.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:640690880:ref:WP_025115215.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:487541569:ref:WP_001712816.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:556427993:ref:WP_023312287.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:446519900:ref:WP_000597246.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
@@ -3402,6 +3493,7 @@ gi:810369244:ref:WP_046334012.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:446053018:ref:WP_000130873.1:|FEATURES|mdtD|multidrug|mdtD	['fluoroquinolone antibiotic']	multidrug
 gi:505383883:ref:WP_015570985.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:490989759:ref:WP_004851492.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:1007411670:gb:AMQ72759.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 YP_523088|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:689837811:dbj:GAL46031.1:|FEATURES|emrD|multidrug|emrD	['bicyclomycin-like antibiotic']	multidrug
 ZP_03164918|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -3415,6 +3507,7 @@ gi:695769902:ref:WP_032692881.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:489246601:ref:WP_003154765.1:|FEATURES|ykkD|multidrug|ykkD	['aminoglycoside antibiotic', 'tetracycline antibiotic', 'phenicol antibiotic']	multidrug
 gi:486228670:ref:WP_001558901.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 NC_002758.1119995.p01|FEATURES|bleO|glycopeptide|bleO	['glycopeptide antibiotic']	glycopeptide
+gi:1004356300:ref:WP_061531279.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:510925276:ref:WP_016246019.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:487633470:ref:WP_001740535.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 YP_002775228|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
@@ -3440,6 +3533,7 @@ gi:1015946072:ref:WP_062896537.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic'
 gi:757751310:ref:WP_042972661.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:746517374:ref:WP_039553500.1:|FEATURES|mexC|multidrug|mexC	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:998623506:ref:WP_061104361.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:445983920:ref:WP_000061775.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:779958642:ref:WP_045406003.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:741009489:ref:WP_038791929.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:922019548:ref:WP_053299973.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -3456,6 +3550,7 @@ gi:488899926:ref:WP_002811019.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:486195100:ref:WP_001546205.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:554689873:ref:WP_023186409.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:908734730:ref:WP_049857314.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+NP_268322|FEATURES|lmrP|MLS|lmrP	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'streptogramin antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic']	MLS
 NP_268322|FEATURES|lmrP|MLS|lmrP	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'streptogramin antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic']	MLS
 gi:690973987:ref:WP_031948545.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic']	multidrug
 gi:447077004:ref:WP_001154260.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
@@ -3549,8 +3644,10 @@ gi:851901342:ref:WP_048211771.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone 
 gi:736027032:ref:WP_034187788.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:694062138:ref:WP_032408791.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:556478457:ref:WP_023330044.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:445983927:ref:WP_000061782.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:446657996:ref:WP_000735342.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:1004393950:ref:WP_061538091.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:860350489:ref:WP_048392759.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:657290285:ref:WP_029377736.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:1011969930:ref:WP_062776015.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:696370025:ref:WP_032945032.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -3613,6 +3710,7 @@ YP_002114436|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinf
 AAN61107|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:446048043:ref:WP_000125898.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:772623911:ref:WP_045269402.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:445983930:ref:WP_000061785.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:489793469:ref:WP_003697360.1:|FEATURES|mtrR|multidrug|mtrR	['fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 NC_010410.6003291.p01|FEATURES|tetA|tetracycline|tetA	['tetracycline antibiotic']	tetracycline
 JQ808129.1.gene4.p01|FEATURES|cat_chloramphenicol_acetyltransferase|phenicol|cat_chloramphenicol_acetyltransferase	['phenicol antibiotic']	phenicol
@@ -3625,6 +3723,7 @@ CAO91624|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lac
 gi:445997200:ref:WP_000075055.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 ZP_03075977|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:695765608:ref:WP_032688640.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:496784101:ref:WP_009371362.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 YP_002792444|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 ZP_03027239|FEATURES|bicyclomycin-multidrug_efflux_protein_bcr|multidrug|bicyclomycin-multidrug_efflux_protein_bcr	['bicyclomycin-like antibiotic']	multidrug
 gi:585344840:ref:WP_024226462.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
@@ -3649,6 +3748,7 @@ gi:696402876:ref:WP_032974614.1:|FEATURES|metallo-beta-lactamase|beta-lactam|met
 HE999704.1.gene3064.p01|FEATURES|mepA|multidrug|mepA	['disinfecting agents and antiseptics']	multidrug
 gi:695722594:ref:WP_032649222.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:487612007:ref:WP_001735062.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:953356378:ref:WP_058006334.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:893269602:emb:CNT99904.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:922979951:gb:ALB00633.1:|FEATURES|mecR1|beta-lactam|mecR1	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:694084724:ref:WP_032429554.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -3682,6 +3782,7 @@ gi:692988893:ref:WP_032177673.1:|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-lik
 CAR61679|FEATURES|emrD|multidrug|emrD	['phenicol antibiotic']	multidrug
 gi:739906046:ref:WP_037756452.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:757509647:ref:WP_042776606.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:951399103:ref:WP_057773891.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:545241141:ref:WP_021539942.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:640522200:ref:WP_024956543.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:896523630:ref:WP_049427757.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
@@ -3703,6 +3804,7 @@ gi:691099267:ref:WP_032025591.1:|FEATURES|tetR|tetracycline|tetR	['macrolide ant
 gi:556487523:ref:WP_023335256.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:521134726:ref:WP_020437465.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 YP_001419960|FEATURES|major_facilitator_superfamily_transporter|multidrug|major_facilitator_superfamily_transporter	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:445983922:ref:WP_000061777.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:727184277:ref:WP_033646458.1:|FEATURES|mdtG|multidrug|mdtG	['phosphonic acid antibiotic']	multidrug
 gi:974603856:ref:WP_059193686.1:|FEATURES|vanR|glycopeptide|vanR	['glycopeptide antibiotic']	glycopeptide
 gi:896500689:ref:WP_049408740.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
@@ -3756,10 +3858,12 @@ gi:779959293:ref:WP_045406643.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 YP_001780068|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:742286685:ref:WP_038808244.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:696408901:ref:WP_032980019.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:922777287:ref:WP_053374995.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:486163839:ref:WP_001527347.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:498121491:ref:WP_010435647.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:757707445:ref:WP_042936635.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:1031825849:ref:WP_064152930.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:516130021:ref:WP_017560601.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:857585365:emb:CRL63509.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 JN645706.1.gene1.p01|FEATURES|PBP-2X|beta-lactam|PBP-2X	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:695750068:ref:WP_032676329.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -3798,12 +3902,14 @@ gi:404565681:gb:EKA70845.1:|FEATURES|TolC|multidrug|TolC	['disinfecting agents a
 gi:556497247:ref:WP_023344934.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:919910427:ref:WP_052906132.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:515967661:ref:WP_017398244.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
+gi:844766676:ref:WP_047933873.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:823302270:ref:WP_047057473.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446657997:ref:WP_000735343.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:693063780:ref:WP_032229718.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:489023529:ref:WP_002933997.1:|FEATURES|cmeB|multidrug|cmeB	['macrolide antibiotic', 'beta-lactam antibiotic', 'fusidane antibiotic']	multidrug
 gi:652967258:ref:WP_027220230.1:|FEATURES|pmrA|multidrug|pmrA	['nucleoside antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:979835443:ref:WP_059346477.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:393806119:gb:EJD67473.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:749538518:ref:WP_040174114.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:490777345:ref:WP_004639531.1:|FEATURES|adeB|multidrug|adeB	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:32345902:gb:AAM97245.1:|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -3812,6 +3918,8 @@ gi:446657992:ref:WP_000735338.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:820774600:ref:WP_046738612.1:|FEATURES|adeB|multidrug|adeB	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 YP_216904|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:550213341:gb:ERP03693.1:|FEATURES|mdtA|multidrug|mdtA	['aminocoumarin antibiotic']	multidrug
+gi:517204321:ref:WP_018393139.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
+gi:307604997:emb:CBI41368.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:1016953489:ref:WP_063153825.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:1033217078:gb:OAR27197.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:779836883:ref:WP_045342799.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -3859,6 +3967,7 @@ gi:410403673:gb:EKP55755.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiot
 gi:647263081:ref:WP_025711130.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:755004067:ref:WP_042357457.1:|FEATURES|mefA|MLS|mefA	['macrolide antibiotic', 'macrolide antibiotic']	MLS
 gi:992333111:ref:WP_061051590.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:445983949:ref:WP_000061804.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:487660603:ref:WP_001751145.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:693171092:ref:WP_032303433.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:972470198:ref:WP_059056849.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -3871,6 +3980,7 @@ gi:659669327:ref:WP_029883000.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:1047324697:ref:WP_065718885.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:1045505346:ref:WP_065516867.1:|FEATURES|class_A|beta-lactam|class_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 gi:515713142:ref:WP_017145742.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:657210059:ref:WP_029324453.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:489959213:ref:WP_003862520.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:1000904054:ref:WP_061155088.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:452079515:emb:CCP21271.1:|FEATURES|ykkC|multidrug|ykkC	['aminoglycoside antibiotic', 'tetracycline antibiotic', 'phenicol antibiotic']	multidrug
@@ -3910,6 +4020,7 @@ gi:447077009:ref:WP_001154265.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam a
 gi:446669107:ref:WP_000746453.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:505383854:ref:WP_015570956.1:|FEATURES|ompF|multidrug|ompF	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:896491778:ref:WP_049401445.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
+gi:763097172:ref:WP_043977684.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 ZP_04577926|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:766962841:ref:WP_044861296.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446669117:ref:WP_000746463.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
@@ -3930,6 +4041,7 @@ gi:1016069923:ref:WP_062914571.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic'
 gi:645915578:ref:WP_025469563.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 ZP_02345654|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:829613358:ref:WP_047337347.1:|FEATURES|class_C|beta-lactam|class_C	['beta-lactam antibiotic']	beta-lactam
+gi:1028847734:ref:WP_064016697.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:695733424:ref:WP_032659905.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:736439011:ref:WP_034461021.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:647323678:ref:WP_025760497.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -4017,12 +4129,14 @@ YP_001527590|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antib
 gi:742838554:ref:WP_038988609.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:782714341:ref:WP_045616255.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:950731935:ref:WP_057495631.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
+gi:445983944:ref:WP_000061799.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:644827029:ref:WP_025369980.1:|FEATURES|mexE|multidrug|mexE	['tetracycline antibiotic']	multidrug
 gi:746146202:ref:WP_039208400.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:496060588:ref:WP_008785095.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:447195836:ref:WP_001273092.1:|FEATURES|bcrA|bacitracin|bcrA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:872475301:ref:WP_048520564.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:851909194:ref:WP_048214471.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:489438834:ref:WP_003344330.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:554679504:ref:WP_023180493.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:949731977:ref:WP_057072280.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:823299155:ref:WP_047054544.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -4117,8 +4231,11 @@ gi:974688082:ref:WP_059271287.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']
 gi:693226657:ref:WP_032340852.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:486408016:ref:WP_001609182.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
 gi:851981364:ref:WP_048240713.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:445983937:ref:WP_000061792.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:696416155:ref:WP_032986438.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:921965197:ref:WP_053258987.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:737454728:ref:WP_035434889.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
+gi:494883168:ref:WP_007609218.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:780033092:ref:WP_045444768.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:746342345:ref:WP_039387389.1:|FEATURES|mepA|multidrug|mepA	['disinfecting agents and antiseptics']	multidrug
 gi:447097695:ref:WP_001174951.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
@@ -4143,6 +4260,7 @@ gi:1028221825:ref:WP_063963387.1:|FEATURES|TolC|multidrug|TolC	['macrolide antib
 gi:1016529523:ref:WP_063104984.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 YP_040163|FEATURES|bacA|bacitracin|bacA	['peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic']	bacitracin
 gi:896053733:ref:WP_049103387.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:1033309939:gb:OAS18676.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:686302687:ref:WP_031866869.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:564742423:gb:AHB92919.1:|FEATURES|TolC|multidrug|TolC	['disinfecting agents and antiseptics']	multidrug
 YP_002215174|FEATURES|penA|beta-lactam|penA	['beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -4197,6 +4315,7 @@ gi:829831654:ref:WP_047352641.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:971845730:ref:WP_058914924.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:445959302:ref:WP_000037157.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 gi:1515097:emb:CAA68909.1:|FEATURES|puromycin_resistance_protein|nucleoside|puromycin_resistance_protein	['nucleoside antibiotic']	nucleoside
+gi:498485855:ref:WP_010787543.1:|FEATURES|lmrB|MLS|lmrB	['lincosamide antibiotic', 'nucleoside antibiotic']	MLS
 gi:556363288:ref:WP_023300854.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:487653791:ref:WP_001748306.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1002393220:ref:WP_061378400.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
@@ -4207,6 +4326,7 @@ gi:372200799:gb:EHP14818.1:|FEATURES|mtrE|multidrug|mtrE	['macrolide antibiotic'
 gi:582973922:ref:WP_024145424.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:823290738:ref:WP_047046709.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:658597161:ref:WP_029754048.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
+YP_001785579|FEATURES|vatB|MLS|vatB	['streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	MLS
 ZP_03452771|FEATURES|oprA|multidrug|oprA	['macrolide antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:544902100:ref:WP_021313340.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 ZP_02904979|FEATURES|opcM|multidrug|opcM	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic']	multidrug
@@ -4252,6 +4372,7 @@ gi:447124473:ref:WP_001201729.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:446900664:ref:WP_000977920.1:|FEATURES|ompF|multidrug|ompF	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:503935553:ref:WP_014169547.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:782756525:ref:WP_045630086.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
+gi:924355535:ref:WP_053488586.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NC_011595.7058613.p01|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:686138432:ref:WP_031775762.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
 gi:657888313:ref:WP_029592374.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -4289,9 +4410,11 @@ gi:916823965:ref:WP_051431021.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']
 gi:765283866:ref:WP_044612790.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:446900671:ref:WP_000977927.1:|FEATURES|ompF|multidrug|ompF	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
 gi:754951242:ref:WP_042307417.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
+gi:445983931:ref:WP_000061786.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 NC_011595.7058890.p01|FEATURES|oprM|multidrug|oprM	['tetracycline antibiotic', 'phenicol antibiotic']	multidrug
 CAB63488|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
 gi:920058513:ref:WP_052940725.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibiotic', 'macrolide antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'aminocoumarin antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	multidrug
+gi:657632362:ref:WP_029442980.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:896001511:ref:WP_049068193.1:|FEATURES|tetR|tetracycline|tetR	['macrolide antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	tetracycline
 ZP_02827405|FEATURES|bicyclomycin-multidrug_efflux_protein_bcr|multidrug|bicyclomycin-multidrug_efflux_protein_bcr	['bicyclomycin-like antibiotic']	multidrug
 gi:695627534:ref:WP_032608952.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
@@ -4360,6 +4483,7 @@ gi:475937711:gb:EMU05763.1:|FEATURES|mdfA|multidrug|mdfA	['tetracycline antibiot
 gi:446669128:ref:WP_000746474.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 YP_312344|FEATURES|mdtL|multidrug|mdtL	['bicyclomycin-like antibiotic']	multidrug
 gi:487676134:ref:WP_001761182.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
+gi:445983947:ref:WP_000061802.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:943938624:ref:WP_055567802.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['aminocoumarin antibiotic']	multidrug
 gi:896534839:ref:WP_049437516.1:|FEATURES|norA|multidrug|norA	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:485797225:ref:WP_001418483.1:|FEATURES|ompF|multidrug|ompF	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	multidrug
@@ -4410,6 +4534,7 @@ gi:800942330:ref:WP_045970610.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone 
 gi:754724054:ref:WP_042095806.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 gi:1016954251:ref:WP_063154587.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
 gi:545232529:ref:WP_021532097.1:|FEATURES|arnA|polymyxin|arnA	['peptide antibiotic']	polymyxin
+gi:765018624:ref:WP_044584737.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:485860241:ref:WP_001459790.1:|FEATURES|mdtK|multidrug|mdtK	['fluoroquinolone antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:902970937:ref:WP_049689667.1:|FEATURES|mdtH|multidrug|mdtH	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic']	multidrug
 gi:896537036:ref:WP_049439561.1:|FEATURES|metallo-beta-lactamase|beta-lactam|metallo-beta-lactamase	['beta-lactam antibiotic']	beta-lactam
@@ -4422,6 +4547,7 @@ gi:695624984:ref:WP_032607919.1:|FEATURES|TolC|multidrug|TolC	['macrolide antibi
 gi:490205019:ref:WP_004103456.1:|FEATURES|sdiA|unclassified|sdiA	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic', 'rifamycin antibiotic', 'phenicol antibiotic', 'disinfecting agents and antiseptics']	unclassified
 gi:499595733:ref:WP_011276467.1:|FEATURES|marR|multidrug|marR	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'peptide antibiotic', 'peptide antibiotic', 'disinfecting agents and antiseptics']	multidrug
 gi:446669112:ref:WP_000746458.1:|FEATURES|macA|MLS|macA	['macrolide antibiotic']	MLS
+gi:822524709:ref:WP_046954623.1:|FEATURES|lsa|MLS|lsa	['lincosamide antibiotic', 'pleuromutilin antibiotic']	MLS
 gi:779850732:ref:WP_045348329.1:|FEATURES|macB|MLS|macB	['macrolide antibiotic']	MLS
 NC_009085.4919118.p01|FEATURES|adeA|multidrug|adeA	['tetracycline antibiotic', 'tetracycline antibiotic']	multidrug
 gi:446519886:ref:WP_000597232.1:|FEATURES|multidrug_ABC_transporter|multidrug|multidrug_ABC_transporter	['nitroimidazole antibiotic']	multidrug
@@ -4492,6 +4618,7 @@ ACC99191.1|FEATURES|SHV-112|beta-lactam|SHV	['beta-lactam antibiotic', 'beta-lac
 AAM15533.1|FEATURES|PvrR|aminoglycoside|PvrR	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminocoumarin antibiotic']	aminoglycoside
 APB87301|FEATURES|porin_OmpC|beta-lactam|porin_OmpC	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 BAB38442|FEATURES|Escherichia_coli_LamB|multidrug|Escherichia_coli_LamB	['fluoroquinolone antibiotic', 'fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'tetracycline antibiotic', 'disinfecting agents and antiseptics']	multidrug
+CUU67654.1|FEATURES|Erm(44)|MLS|Erm(44)	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
 CUU67654.1|FEATURES|Erm(44)|MLS|Erm(44)	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
 YP_005226137.1|FEATURES|Klebsiella_pneumoniae_OmpK35|beta-lactam|Klebsiella_pneumoniae_OmpK35	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
 YP_005228001.1|FEATURES|Klebsiella_pneumoniae_OmpK36|beta-lactam|Klebsiella_pneumoniae_OmpK36	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	beta-lactam
@@ -4604,6 +4731,8 @@ MEG_2670|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|DRRA	['macrolid
 MEG_2693|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|EATAV|RequiresSNPConfirmation	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'pleuromutilin antibiotic']	Multi-drug_resistance
 MEG_2694|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|EATAV|RequiresSNPConfirmation	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'pleuromutilin antibiotic']	Multi-drug_resistance
 MEG_2769|Drugs|MLS|23S_rRNA_methyltransferases|ERM	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
+MEG_2769|Drugs|MLS|23S_rRNA_methyltransferases|ERM	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
+MEG_2782|Drugs|MLS|23S_rRNA_methyltransferases|ERM44	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
 MEG_2782|Drugs|MLS|23S_rRNA_methyltransferases|ERM44	['macrolide antibiotic', 'lincosamide antibiotic']	MLS
 MEG_2934|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation	['sulfonamide antibiotic']	Sulfonamides
 MEG_2935|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation	['sulfonamide antibiotic']	Sulfonamides
@@ -4671,6 +4800,7 @@ MEG_3534|Drugs|betalactams|Class_B_betalactamases|L1	['beta-lactam antibiotic']	
 MEG_3587|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation	['peptide antibiotic']	Lipopeptides
 MEG_3591|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation	['glycopeptide antibiotic']	Lipopeptides
 MEG_3594|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRA|RequiresSNPConfirmation	['rifamycin antibiotic', 'isoniazid-like antibiotic']	Multi-drug_resistance
+MEG_3606|Drugs|MLS|Lincosamide_nucleotidyltransferases|LNUA	['lincosamide antibiotic', 'lincosamide antibiotic']	MLS
 MEG_3656|Drugs|betalactams|Class_A_betalactamases|M1	['beta-lactam antibiotic']	betalactams
 MEG_3664|Drugs|betalactams|Class_C_betalactamases|MCA	['beta-lactam antibiotic']	betalactams
 MEG_3691|Drugs|Lipopeptides|Colistin_phosphoethanolamine_transferase|MCR	['peptide antibiotic', 'peptide antibiotic']	Lipopeptides
@@ -4699,6 +4829,8 @@ MEG_3835|Drugs|Multi-drug_resistance|Multi-drug_MATE_efflux_pump|MEPB	['macrolid
 MEG_4057|Drugs|Lipopeptides|Daptomycin-resistant_mutant|MPRFD|RequiresSNPConfirmation	['peptide antibiotic']	Lipopeptides
 MEG_4062|Drugs|betalactams|Class_B_betalactamases|MSI	['beta-lactam antibiotic']	betalactams
 MEG_4068|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRA	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+MEG_4068|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRA	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+MEG_4071|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 MEG_4071|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRC	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 MEG_4073|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRD	['macrolide antibiotic']	MLS
 MEG_4074|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|MSRD	['macrolide antibiotic']	MLS
@@ -5062,6 +5194,7 @@ MEG_7880|Drugs|Aminoglycosides|Aminoglycoside_N-acetyltransferases|AAC6-PRIME	['
 665915229|WP_031281281.1|1|1|catB|catB|acetyltransferase|2|CHLORAMPHENICOL|PHENICOL|type_B_chloramphenicol_O-acetyltransferase	['phenicol antibiotic']	PHENICOL
 667759344|WP_031380727.1|1|1|dfrA44|dfrA44|insensitivity|2|TRIMETHOPRIM|TRIMETHOPRIM|trimethoprim-resistant_dihydrofolate_reductase_DfrA44	['diaminopyrimidine antibiotic']	TRIMETHOPRIM
 686344068|WP_031885508.1|1|1|erm(54)|erm(54)|target_modification|2|CLINDAMYCIN/ERYTHROMYCIN|LINCOSAMIDE/MACROLIDE|23S_rRNA_(adenine(2058)-N(6))-methyltransferase_Erm(54)	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	LINCOSAMIDE/MACROLIDE
+686344068|WP_031885508.1|1|1|erm(54)|erm(54)|target_modification|2|CLINDAMYCIN/ERYTHROMYCIN|LINCOSAMIDE/MACROLIDE|23S_rRNA_(adenine(2058)-N(6))-methyltransferase_Erm(54)	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	LINCOSAMIDE/MACROLIDE
 686417596|WP_031916103.1|1|1|str|str|nucleotidyltransferase|2|STREPTOMYCIN|AMINOGLYCOSIDE|streptomycin_adenylyltransferase_Str	['aminoglycoside antibiotic']	AMINOGLYCOSIDE
 695261598|WP_032488557.1|1|1|tet(G)|tet(G)|efflux|2|TETRACYCLINE|TETRACYCLINE|tetracycline_efflux_MFS_transporter_Tet(G)	['tetracycline antibiotic']	TETRACYCLINE
 695263298|WP_032490168.1|1|1|tet(E)|tet(E)|efflux|2|TETRACYCLINE|TETRACYCLINE|tetracycline_efflux_MFS_transporter_Tet(E)	['tetracycline antibiotic']	TETRACYCLINE
@@ -5079,6 +5212,7 @@ MEG_7880|Drugs|Aminoglycosides|Aminoglycoside_N-acetyltransferases|AAC6-PRIME	['
 736869479|WP_034869172.1|1|1|vanS-C|vanS-C|re-structuring_of_the_cell_wall|2|VANCOMYCIN|GLYCOPEPTIDE|vancomycin_resistance_histidine_kinase_VanS-C	['glycopeptide antibiotic']	GLYCOPEPTIDE
 740941659|WP_038726674.1|1|1|aac(6')-III|aac(6')-III|acetyltransferase|2|TOBRAMYCIN|AMINOGLYCOSIDE|tobramycin_N-acetyltransferase_AAC(6')-III	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	AMINOGLYCOSIDE
 741008327|WP_038790798.1|1|1|aac(6')-III|aac(6')-III|acetyltransferase|2|TOBRAMYCIN|AMINOGLYCOSIDE|tobramycin_N-acetyltransferase_AAC(6')-III	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	AMINOGLYCOSIDE
+751612012|WP_041079981.1|1|1|erm(44)v|erm(44)v|target_modification|2|CLINDAMYCIN/ERYTHROMYCIN|LINCOSAMIDE/MACROLIDE|23S_rRNA_(adenine(2058)-N(6))-methyltransferase_Erm(44)v	['macrolide antibiotic', 'lincosamide antibiotic']	LINCOSAMIDE/MACROLIDE
 751612012|WP_041079981.1|1|1|erm(44)v|erm(44)v|target_modification|2|CLINDAMYCIN/ERYTHROMYCIN|LINCOSAMIDE/MACROLIDE|23S_rRNA_(adenine(2058)-N(6))-methyltransferase_Erm(44)v	['macrolide antibiotic', 'lincosamide antibiotic']	LINCOSAMIDE/MACROLIDE
 756832308|WP_042649073.1|1|1|mcr-3_set|mcr-3_set||2|COLISTIN|COLISTIN|MCR-3-related_phosphoethanolamine--lipid_A_transferase	['peptide antibiotic', 'peptide antibiotic']	COLISTIN
 763027631|WP_043911783.1|1|1|aac(6')_Strep|aac(6')_Strep|acetyltransferase|2|AMINOGLYCOSIDE|AMINOGLYCOSIDE|aminoglycoside_6'-N-acetyltransferase	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	AMINOGLYCOSIDE
@@ -7668,6 +7802,7 @@ Streptomycin 3''-adenylyltransferase|JN625765.1|chicken_microbiota|SPT	['aminogl
 (Gly)vanS-Pt:AY926880:1391-2551:1461	['glycopeptide antibiotic', 'glycopeptide antibiotic']	Gly
 (Gly)vanZ-Pa:DQ018711:7169-7648:480	['glycopeptide antibiotic', 'glycopeptide antibiotic']	Gly
 (MLS)msr(C):AY004350:496-1974:1479	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
+(MLS)msr(C):AY004350:496-1974:1479	['macrolide antibiotic', 'streptogramin antibiotic']	MLS
 (MLS)msr(D):AF274302:2462-3925:1464	['macrolide antibiotic']	MLS
 (MLS)TlrC:NC_016113:803268-384890:1623	['macrolide antibiotic']	MLS
 (Phe)catB4:EU935739:59054-59602:549	['phenicol antibiotic', 'phenicol antibiotic', 'phenicol antibiotic']	Phe
@@ -7740,6 +7875,8 @@ mecA1_5_AB547234	['beta-lactam antibiotic', 'beta-lactam antibiotic']	Beta-lacta
 blaZ_85_NZ_FHDT01000016	['beta-lactam antibiotic']	Beta-lactam
 bleO_1_AF051917	['glycopeptide antibiotic']	Glycopeptide
 erm(N)_2_MZ015744	['macrolide antibiotic', 'lincosamide antibiotic']	Macrolide, Lincosamide, Streptogramin B
+erm(N)_2_MZ015744	['macrolide antibiotic', 'lincosamide antibiotic']	Macrolide, Lincosamide, Streptogramin B
+erm(54)_1_OM362497	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Macrolide, Lincosamide, Streptogramin B
 erm(54)_1_OM362497	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Macrolide, Lincosamide, Streptogramin B
 erm(54)_1_OM362497	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Macrolide, Lincosamide, Streptogramin B
 mef(A)_4_HG423652	['macrolide antibiotic', 'macrolide antibiotic']	Macrolide
@@ -7748,14 +7885,21 @@ msr(C)_1_AY004350	['macrolide antibiotic', 'streptogramin antibiotic']	Macrolide
 msr(D)_2_AF274302	['macrolide antibiotic']	Macrolide, Streptogramin B
 msr(D)_3_AF227520	['macrolide antibiotic']	Macrolide, Streptogramin B
 vga(A)_2_FN546261	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
+vga(A)_2_FN546261	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 vga(A)LC_3_FN806791	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
+vga(A)LC_3_FN806791	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
+vga(A)LC_1_GQ891882	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 vga(A)LC_1_GQ891882	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 mph(D)_1_AB048591	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic']	Macrolide
 mef(A)_1_AJ971089	['macrolide antibiotic', 'macrolide antibiotic']	Macrolide
 mef(A)_2_U83667	['macrolide antibiotic', 'macrolide antibiotic']	Macrolide
 erm(44)v_1_LN623525	['macrolide antibiotic', 'lincosamide antibiotic']	Macrolide, Lincosamide
+erm(44)v_1_LN623525	['macrolide antibiotic', 'lincosamide antibiotic']	Macrolide, Lincosamide
+vga(A)_3_JQ312422	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 vga(A)_3_JQ312422	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 vga(A)V_1_AF186237	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
+vga(A)V_1_AF186237	['lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
+vga(A)LC_4_JQ312423	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 vga(A)LC_4_JQ312423	['lincosamide antibiotic', 'lincosamide antibiotic', 'streptogramin antibiotic', 'streptogramin antibiotic']	Lincosamide, Streptogramin A, Pleuromutilin
 mph(N)_1_KF648874	['macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic', 'macrolide antibiotic']	Macrolide
 mdt(A)_1_X92946	['macrolide antibiotic']	Macrolide, Lincosamide, Streptogramin A, Streptogramin B, Tetracycline
