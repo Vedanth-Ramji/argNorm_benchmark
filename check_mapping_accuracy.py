@@ -5,20 +5,15 @@ import pronto
 
 ARO = pronto.Ontology('./data/aro.obo')
 
-def get_loose_hits(df, db):
-    loose = df[df['Cut_Off'].isin(['Loose'])]
-    loose['Database'] = db
-    return loose[['ORF_ID', 'ARO', 'Database']]
-
-def generate_loose_hits_tsv():
+def generate_hits_tsv():
     mappings = os.listdir('./rgi_mapping/')
     output = pd.DataFrame()
 
     for i in mappings:
         df = pd.read_csv('./rgi_mapping/' + i, sep='\t')
         db = i.split('_')[0]
-        loose = get_loose_hits(df, db)
-        output = pd.concat([output, loose])
+        df['Database'] = db
+        output = pd.concat([output, df[['ORF_ID', 'ARO', 'Database', 'Cut_Off']]])
 
     drugs_list = []
     drug_classes_list = [] 
@@ -60,31 +55,36 @@ def generate_loose_hits_tsv():
         drug_classes.append(drug_class)
 
     output['Original Drug Classes'] = drug_classes
-    output.to_csv('loose_hits.tsv', sep='\t', index=False)
+    output.to_csv('hits.tsv', sep='\t', index=False)
 
-def analyze_loose_hits_tsv():
+def analyze_hits_tsv():
     alternative_ids = {
-        "beta-lactam antibiotic": ['Bla', 'beta_lactam', 'beta-lactam', 'Beta-lactamase', 'betalactams', 'beta-lactamase', 'Metallo-beta-lactamase', 'putative peptidoglycan D%2CD-transpeptidase PenA'],
+        "beta-lactam antibiotic": ['Methicillin resistance mecR1 protein', 'Bla', 'beta_lactam', 'beta-lactam', 'Beta-lactamase', 'betalactams', 'beta-lactamase', 'Metallo-beta-lactamase', 'putative peptidoglycan D%2CD-transpeptidase PenA'],
         "aminoglycoside antibiotic": ['aminoglycoside', 'AGly', 'Aminoglycosides', "Streptomycin 3''-adenylyltransferase", 'Gentamicin 3-N-acetyltransferase', 'Bifunctional AAC/APH'],
         "macrolide antibiotic": ['MLS', 'MACROLIDE', 'Macrolide'],
         "tetracycline antibiotic": ['tetracycline', 'Tet', 'TETRACYCLINE', 'Tetracyclines', 'Tetracycline', 'Tetracycline resistance protein', 'Tetracycline repressor protein'],
         "phenicol antibiotic": ['Phe', 'chloramphenicol', 'amphenicol', 'Chloramphenicol acetyltransferase', 'Chloramphenicol acetyltransferase 2', 'florfenicol'],
-        "phosphonic acid antibiotic": ['fosfomycin', 'Fosfomycin'],
-        "sulfonamide antibiotic": ['Sulfonamides', 'Dihydropteroate synthase'],
+        "phosphonic acid antibiotic": ['fosfomycin', 'Fosfomycin', 'Fcyn'],
+        "sulfonamide antibiotic": ['Sulfonamides', 'Dihydropteroate synthase', 'Folate pathway antagonist'],
         "glycopeptide antibiotic": ['Glycopeptides', 'vancomycin', 'bleomycin', 'D-alanine--D-alanine ligase', 'D-alanine--D-alanine ligase B', 'D-alanine--D-alanine ligase A'],
         "diaminopyrimidine antibiotic": ['Dihydrofolate reductase', 'Trimethoprim', 'Folate pathway antagonist', 'Tmt'],
-        "peptide antibiotic": ['bacitracin', 'polymyxin', 'other_peptide_antibiotics', 'COLISTIN', 'lipopeptides'],
+        "peptide antibiotic": ['bacitracin', 'polymyxin', 'other_peptide_antibiotics', 'COLISTIN', 'lipopeptides', 'COL', 'TUBERACTINOMYCIN', 'edeine', 'defensin', 'Cationic_antimicrobial_peptides'],
         "aminocoumarin antibiotic": ['novobiocin'],
-        "nucleoside antibiotic": ['puromycin'],
+        "nucleoside antibiotic": ['puromycin', 'Nucleosides', 'tunicamycin'],
         "rifamycin antibiotic": ['rifampin'],
         "lincosamide antibiotic": ['lincosamide', 'MLS'],
-        "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B', 'MLS']
+        "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B', 'MLS'],
+        'nitroimidazole antibiotic': ['Metronidazole', 'Ntmdz'],
+        'oxazolidinone antibiotic': ['Oxzln'],
+        'fusidane antibiotic': ['fusidic_acid', 'fusaric-acid', 'FUSIDIC_ACID', 'fusidic-acid', 'Fcd'],
+        'fluoroquinolone antibiotic': ['Flq', 'Fluoroquinolones', 'PHENICOL/QUINOLONE'],
+        'pleuromutilin antibiotic': ['pleuromutilin_tiamulin', 'LINCOSAMIDE/PLEUROMUTILIN']
     }
     
-    metals = ['mercury_resistance', 'multi-metal_resistance', 'tellurium_resistance', 'tellurium', 'arsenic', 'cadmium', 'copper', 'mercury', 'nickel', 'copper/silver', 'silver', 'cadmium/cobalt/nickel', 'chromate']
+    metals = ['mercury_resistance', 'multi-metal_resistance', 'tellurium_resistance', 'tellurium', 'arsenic', 'cadmium', 'copper', 'mercury', 'nickel', 'copper/silver', 'silver', 'cadmium/cobalt/nickel', 'chromate', 'COPPER/GOLD', 'GOLD']
     virulence_genes_or_toxins = ['stx2', 'intimin', 'stx1']
 
-    df = pd.read_csv('loose_hits.tsv', sep='\t')
+    df = pd.read_csv('hits.tsv', sep='\t')
 
     correct = []
     incorrect = []
@@ -135,22 +135,23 @@ def analyze_loose_hits_tsv():
 
     with open('loose_hit_outputs/flagged_loose_hits.txt', 'w') as ofile:
         for i in incorrect:
-            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
+            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\t{i['Cut_Off']}\n")
             
     with open('loose_hit_outputs/matched_loose_hits.txt', 'w') as ofile:
         for i in correct:
-            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
+            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\t{i['Cut_Off']}\n")
             
     with open('loose_hit_outputs/loose_hit_metal_genes.txt', 'w') as ofile:
         for i in metal_resistance_genes:
-            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
+            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\t{i['Cut_Off']}\n")
             
     with open('loose_hit_outputs/loose_hit_virulence_genes.txt', 'w') as ofile:
         for i in virulence_genes:
-            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
+            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\t{i['Cut_Off']}\n")
             
     with open('loose_hit_outputs/loose_hit_drug_and_biocide_genes.txt', 'w') as ofile:
         for i in drug_and_biocide_genes:
-            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\n")
-    
-analyze_loose_hits_tsv()
+            ofile.write(f"{i['ORF_ID']}\t{i['Drug Classes']}\t{i['Original Drug Classes']}\t{i['Cut_Off']}\n")
+
+generate_hits_tsv()
+analyze_hits_tsv()
