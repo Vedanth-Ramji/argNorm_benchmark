@@ -29967,8 +29967,8 @@ rmtD_1_DQ914960	3002667	resfinder	Perfect	['amikacin', 'tobramycin', 'arbekacin'
 rmtD2_1_HQ401565	3004677	resfinder	Perfect	['amikacin', 'netilmicin', 'kanamycin A', 'tobramycin', 'gentamicin A']	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside
 rmtE_1_GU201947	3004678	resfinder	Perfect	['amikacin', 'gentamicin A']	['aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside
 ant(9)-Ia_1_X02588	3002630	resfinder	Perfect	['spectinomycin']	['aminoglycoside antibiotic']	Aminoglycoside
-aac(6')-Ib-cr_1_DQ303918	3002581	resfinder	Strict	['amikacin', 'kanamycin A', 'tobramycin']	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside, Quinolone' 'Quinolone
-aac(6')-Ib-cr_2_EF636461	3005115	resfinder	Strict	['amikacin', 'ciprofloxacin', 'kanamycin A', 'tobramycin']	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside, Quinolone' 'Quinolone
+aac(6')-Ib-cr_1_DQ303918	3002581	resfinder	Strict	['amikacin', 'kanamycin A', 'tobramycin']	['aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside, Quinolone, Quinolone
+aac(6')-Ib-cr_2_EF636461	3005115	resfinder	Strict	['amikacin', 'ciprofloxacin', 'kanamycin A', 'tobramycin']	['fluoroquinolone antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic', 'aminoglycoside antibiotic']	Aminoglycoside, Quinolone, Quinolone
 aph(3'')-Ib_2_AF024602	3002639	resfinder	Strict	['streptomycin']	['aminoglycoside antibiotic']	Aminoglycoside
 aph(3'')-Ib_5_AF321551	3002639	resfinder	Strict	['streptomycin']	['aminoglycoside antibiotic']	Aminoglycoside
 aph(6)-Id_2_AF024602	3002660	resfinder	Perfect	['streptomycin']	['aminoglycoside antibiotic']	Aminoglycoside
