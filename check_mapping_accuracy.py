@@ -1,60 +1,63 @@
 import os
 import pandas as pd
-from argnorm.drug_categorization import *
-import pronto
+from argnorm.drug_categorization import confers_resistance_to, drugs_to_drug_classes
+from argnorm.lib import get_aro_ontology
 
-ARO = pronto.Ontology('./data/aro.obo')
+ARO = get_aro_ontology()
 
 def generate_hits_tsv():
-    mappings = os.listdir('./rgi_mapping/')
-    output = pd.DataFrame()
-
+    mappings = sorted(os.listdir('./rgi_mapping/'))
+    output = []
     for i in mappings:
         df = pd.read_csv('./rgi_mapping/' + i, sep='\t')
         db = i.split('_')[0]
         df['Database'] = db
-        output = pd.concat([output, df[['ORF_ID', 'ARO', 'Database', 'Cut_Off']]])
+        output.append(df[['ORF_ID', 'ARO', 'Database', 'Cut_Off']])
+    output = pd.concat(output).reset_index(drop=True)
 
-    drugs_list = []
-    drug_classes_list = [] 
-    for i in range(output.shape[0]):
-        aro = "ARO:" + str(output.iloc[i]['ARO'])
-        drugs = confers_resistance_to(aro)
-        drug_classes = drugs_to_drug_classes(drugs)
-        
-        drugs_list.append(list(map(lambda x: ARO[x].name, drugs)))
-        drug_classes_list.append(list(map(lambda x: ARO[x].name, drug_classes)))
-        
-    output['Drugs'] = drugs_list
-    output['Drug Classes'] = drug_classes_list
+    drugs = ('ARO:' + output['ARO'].map(str)).map(confers_resistance_to)
+    drug_classes = drugs.map(drugs_to_drug_classes)
 
-    drug_classes = []
-    for i in range(output.shape[0]):
-        if output.iloc[i]['Database'] == 'argannot':
-            drug_class = output.iloc[i]['ORF_ID'].split(')')[0][1:]
-        if output.iloc[i]['Database'] == 'ncbi':
-            if output.iloc[i]['ORF_ID'].split('|')[-2]:
-                drug_class = output.iloc[i]['ORF_ID'].split('|')[-2]
-            else:
-                drug_class = output.iloc[i]['ORF_ID']
-        if output.iloc[i]['Database'] == 'deeparg':
-            drug_class = output.iloc[i]['ORF_ID'].split('|')[-2]
-        if output.iloc[i]['Database'] == 'resfinder':
-            gene_name = output.iloc[i]['ORF_ID']
-            resfinder_antibiotic_classes = pd.read_csv('./data/resfinder_antibiotic_classes.tsv', sep='\t')
-            drug_class = str(resfinder_antibiotic_classes[resfinder_antibiotic_classes['Gene_accession no.'] == gene_name]['Class'].values).replace("['", '').replace("']", '')
-        if output.iloc[i]['Database'] == 'resfinderfg':
-            drug_class = output.iloc[i]['ORF_ID'].split('|')[0]
-        if output.iloc[i]['Database'] == 'megares':
-            drug_class = output.iloc[i]['ORF_ID'].split('|')[2]
-        if output.iloc[i]['Database'] == 'sarg':
-            gene_name = output.iloc[i]['ORF_ID'].split(' ')[0]
-            sarg_antibiotic_classes = pd.read_csv('./data/SARG_structure.tsv', sep='\t')
-            drug_class = str(sarg_antibiotic_classes[sarg_antibiotic_classes['SARG.Seq.ID'] == gene_name]['Type'].values).replace("['", '').replace("']", '')
-        
-        drug_classes.append(drug_class)
+    output['Drugs'] = drugs.map(lambda x: list(map(lambda y: ARO[y].name, x)))
+    output['Drug Classes'] = drug_classes.map(lambda x: list(map(lambda y: ARO[y].name, x)))
 
-    output['Original Drug Classes'] = drug_classes
+    original_drug_classes = []
+
+    argannot = output.query('Database == "argannot"')
+    original_drug_classes.append(argannot['ORF_ID'].str.split(')').str[0].str[1:])
+
+    ncbi = output.query('Database == "ncbi"')
+    ncbi_drug_classes = ncbi['ORF_ID'].map(lambda x: x.split('|')[-2] if '|' in x else x)
+    ncbi_drug_classes.where(ncbi_drug_classes != '', ncbi['ORF_ID'], inplace=True)
+    original_drug_classes.append(ncbi_drug_classes)
+
+    deeparg = output.query('Database == "deeparg"')
+    original_drug_classes.append(deeparg['ORF_ID'].str.split('|').str[-2])
+
+    resfinder = output.query('Database == "resfinder"')
+    resfinder_antibiotic_classes = pd.read_csv('./data/resfinder_antibiotic_classes.tsv', sep='\t')
+    resfinder_antibiotic_classes.set_index('Gene_accession no.', inplace=True)
+    resfinder_antibiotic_classes = resfinder_antibiotic_classes['Class'].to_dict()
+    resfinder_drug_classes = resfinder['ORF_ID'].map(resfinder_antibiotic_classes)
+    original_drug_classes.append(resfinder_drug_classes)
+
+    resfinderfg = output.query('Database == "resfinderfg"')
+    original_drug_classes.append(resfinderfg['ORF_ID'].str.split('|').str[0])
+
+    megares = output.query('Database == "megares"')
+    original_drug_classes.append(megares['ORF_ID'].str.split('|').str[2])
+
+    sarg = output.query('Database == "sarg"')
+    gene_name = sarg["ORF_ID"].str.split(' ').str[0]
+    sarg_antibiotic_classes = pd.read_csv('./data/SARG_structure.tsv', sep='\t')
+    sarg_antibiotic_classes.set_index('SARG.Seq.ID', inplace=True)
+    sarg_antibiotic_classes = sarg_antibiotic_classes['Type'].to_dict()
+    sarg_drug_classes = gene_name.map(sarg_antibiotic_classes)
+    original_drug_classes.append(sarg_drug_classes)
+
+    original_drug_classes = pd.concat(original_drug_classes)
+
+    output['Original Drug Classes'] = original_drug_classes.reindex(output.index)
     output.to_csv('hits.tsv', sep='\t', index=False)
 
 def analyze_hits_tsv():
