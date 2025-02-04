@@ -6,7 +6,7 @@ import pronto
 ARO = pronto.Ontology('./data/aro.obo')
 
 def generate_hits_tsv():
-    mappings = os.listdir('./rgi_mapping/')
+    mappings = sorted(os.listdir('./rgi_mapping/'))
     output = pd.DataFrame()
 
     for i in mappings:
