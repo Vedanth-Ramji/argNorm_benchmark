@@ -7,14 +7,15 @@ ARO = pronto.Ontology('./data/aro.obo')
 
 def generate_hits_tsv():
     mappings = os.listdir('./rgi_mapping/')
-    output = pd.DataFrame()
+    outputs = []
 
     for i in mappings:
         df = pd.read_csv('./rgi_mapping/' + i, sep='\t')
         db = i.split('_')[0]
         df['Database'] = db
-        output = pd.concat([output, df[['ORF_ID', 'ARO', 'Database', 'Cut_Off']]])
-
+        outputs.append(df[['ORF_ID', 'ARO', 'Database', 'Cut_Off']])
+    
+    output = pd.concat(outputs)
     drugs_list = []
     drug_classes_list = [] 
     for i in range(output.shape[0]):
@@ -27,6 +28,9 @@ def generate_hits_tsv():
         
     output['Drugs'] = drugs_list
     output['Drug Classes'] = drug_classes_list
+    
+    resfinder_antibiotic_classes = pd.read_csv('./data/resfinder_antibiotic_classes.tsv', sep='\t')
+    sarg_antibiotic_classes = pd.read_csv('./data/SARG_structure.tsv', sep='\t')
 
     drug_classes = []
     for i in range(output.shape[0]):
@@ -41,7 +45,6 @@ def generate_hits_tsv():
             drug_class = output.iloc[i]['ORF_ID'].split('|')[-2]
         if output.iloc[i]['Database'] == 'resfinder':
             gene_name = output.iloc[i]['ORF_ID']
-            resfinder_antibiotic_classes = pd.read_csv('./data/resfinder_antibiotic_classes.tsv', sep='\t')
             drug_class = str(resfinder_antibiotic_classes[resfinder_antibiotic_classes['Gene_accession no.'] == gene_name]['Class'].values).replace("['", '').replace("']", '')
         if output.iloc[i]['Database'] == 'resfinderfg':
             drug_class = output.iloc[i]['ORF_ID'].split('|')[0]
@@ -49,7 +52,6 @@ def generate_hits_tsv():
             drug_class = output.iloc[i]['ORF_ID'].split('|')[2]
         if output.iloc[i]['Database'] == 'sarg':
             gene_name = output.iloc[i]['ORF_ID'].split(' ')[0]
-            sarg_antibiotic_classes = pd.read_csv('./data/SARG_structure.tsv', sep='\t')
             drug_class = str(sarg_antibiotic_classes[sarg_antibiotic_classes['SARG.Seq.ID'] == gene_name]['Type'].values).replace("['", '').replace("']", '')
         
         drug_classes.append(drug_class)
@@ -70,7 +72,7 @@ def analyze_hits_tsv():
         "diaminopyrimidine antibiotic": ['Dihydrofolate reductase', 'Trimethoprim', 'Folate pathway antagonist', 'Tmt'],
         "peptide antibiotic": ['bacitracin', 'polymyxin', 'other_peptide_antibiotics', 'COLISTIN', 'lipopeptides', 'COL', 'TUBERACTINOMYCIN', 'edeine', 'defensin', 'Cationic_antimicrobial_peptides'],
         "aminocoumarin antibiotic": ['novobiocin'],
-        "nucleoside antibiotic": ['puromycin', 'Nucleosides', 'tunicamycin'],
+        "nucleoside antibiotic": ['puromycin', 'Nucleosides', 'tunicamycin', 'streptothricin', 'aminoglycoside', 'AGly'],
         "rifamycin antibiotic": ['rifampin'],
         "lincosamide antibiotic": ['lincosamide', 'MLS'],
         "streptogramin antibiotic": ['streptogramin', 'streptogramin A', 'streptogramin B', 'MLS'],
@@ -78,7 +80,7 @@ def analyze_hits_tsv():
         'oxazolidinone antibiotic': ['Oxzln'],
         'fusidane antibiotic': ['fusidic_acid', 'fusaric-acid', 'FUSIDIC_ACID', 'fusidic-acid', 'Fcd'],
         'fluoroquinolone antibiotic': ['Flq', 'Fluoroquinolones', 'PHENICOL/QUINOLONE'],
-        'pleuromutilin antibiotic': ['pleuromutilin_tiamulin', 'LINCOSAMIDE/PLEUROMUTILIN']
+        'pleuromutilin antibiotic': ['pleuromutilin_tiamulin', 'LINCOSAMIDE/PLEUROMUTILIN'],
     }
     
     metals = ['mercury_resistance', 'multi-metal_resistance', 'tellurium_resistance', 'tellurium', 'arsenic', 'cadmium', 'copper', 'mercury', 'nickel', 'copper/silver', 'silver', 'cadmium/cobalt/nickel', 'chromate', 'COPPER/GOLD', 'GOLD']

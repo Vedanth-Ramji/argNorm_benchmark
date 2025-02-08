@@ -1,50 +1,50 @@
 0|EED0303793.1|1|1|stxB2j|stxB2j||1|STX2J|STX2|Shiga_toxin_Stx2j_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-0|EEV0948227.1|1|1|stxA2o|stxA2o||1|STX2O|STX2|Shiga_toxin_Stx2o_subunit_A	['macrolide antibiotic']	STX2	Loose
+0|EEV0948227.1|1|1|stxA2o|stxA2o||1|STX2O|STX2|Shiga_toxin_Stx2o_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 0|EEV0948228.1|1|1|stxB2o|stxB2o||1|STX2O|STX2|Shiga_toxin_Stx2o_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 100173067|ABF69117.1|1|1|epsilon-7|epsilon-7||1|XI|INTIMIN|intimin_type_xi	['beta-lactam antibiotic', 'beta-lactam antibiotic']	INTIMIN	Loose
 108743117|CAJ76692.1|1|1|stxA1a|stxA1a||1|STX1A|STX1|Shiga_toxin_Stx1a_subunit_A	['tetracycline antibiotic']	STX1	Loose
-118192169|ABC67318.2|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
+118192169|ABC67318.2|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 1321015611|AUM09787.1|1|1|stxB2h|stxB2h||1|STX2H|STX2|Shiga_toxin_Stx2h_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-1321015612|AUM09788.1|1|1|stxA2h|stxA2h||1|STX2H|STX2|Shiga_toxin_Stx2h_subunit_A	['macrolide antibiotic']	STX2	Loose
-1370078|CAA57177.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
+1321015612|AUM09788.1|1|1|stxA2h|stxA2h||1|STX2H|STX2|Shiga_toxin_Stx2h_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+1370078|CAA57177.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 1370081|CAA57175.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 1370084|CAA57173.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 1370087|CAA57171.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-14549666|AAK66972.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-147825|AAA19189.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
+14549666|AAK66972.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+147825|AAA19189.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 147826|AAA19190.1|1|1|stxB2e|stxB2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_B	['beta-lactam antibiotic']	STX2	Loose
 147831|AAA24633.1|1|1|stxB2f|stxB2f||1|STX2F|STX2|Shiga_toxin_Stx2f_subunit_B	['beta-lactam antibiotic']	STX2	Loose
 147834|AAA71894.1|1|1|stxB1a|stxB1a||1|STX1A|STX1|Shiga_toxin_Stx1a_subunit_B	['beta-lactam antibiotic']	STX1	Loose
 148750653|ABR09925.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 148750668|ABR09935.1|1|1|stxB2c|stxB2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-148750670|ABR09936.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
+148750670|ABR09936.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 148750671|ABR09937.1|1|1|stxB2d|stxB2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 148750683|ABR09945.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 148750707|ABR09961.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 148750710|ABR09963.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-148750802|ABR10024.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
-14893|CAA30714.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
+148750802|ABR10024.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+14893|CAA30714.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 14894|CAA30715.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-15139857|CAC48396.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
-15139860|CAC48398.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
-156185969|ABU55302.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-15718405|BAB68369.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
+15139857|CAC48396.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+15139860|CAC48398.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+156185969|ABU55302.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+15718405|BAB68369.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 15718406|BAB68370.1|1|1|stxB2c|stxB2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-161511882|CAP17609.1|1|1|stxA2l|stxA2l||1|STX2L|STX2|Shiga_toxin_Stx2l_subunit_A	['macrolide antibiotic']	STX2	Loose
+161511882|CAP17609.1|1|1|stxA2l|stxA2l||1|STX2L|STX2|Shiga_toxin_Stx2l_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 161511883|CAP17610.1|1|1|stxB2l|stxB2l||1|STX2L|STX2|Shiga_toxin_Stx2l_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-1669863|AAC45964.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
+1669863|AAC45964.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 1669864|AAC45965.1|1|1|stxB2e|stxB2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_B	['beta-lactam antibiotic']	STX2	Loose
 1802599137|QHR28666.1|1|1|stxB2k|stxB2k||1|STX2K|STX2|Shiga_toxin_Stx2k_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-1802599138|QHR28667.1|1|1|stxA2k|stxA2k||1|STX2K|STX2|Shiga_toxin_Stx2k_subunit_A	['macrolide antibiotic']	STX2	Loose
-18147028|BAB82996.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
-18147037|BAB83002.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic']	STX2	Loose
+1802599138|QHR28667.1|1|1|stxA2k|stxA2k||1|STX2K|STX2|Shiga_toxin_Stx2k_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+18147028|BAB82996.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+18147037|BAB83002.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 18147038|BAB83003.1|1|1|stxB2g|stxB2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 18147041|BAB83005.1|1|1|stxB2b|stxB2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 18147044|BAB83007.1|1|1|stxB2b|stxB2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 18147068|BAB83023.1|1|1|stxB1c|stxB1c||1|STX1C|STX1|Shiga_toxin_Stx1c_subunit_B	['beta-lactam antibiotic']	STX1	Loose
-18147070|BAB83024.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
-2086798907|QZN05543.1|1|1|stxA2j|stxA2j||1|STX2J|STX2|Shiga_toxin_Stx2j_subunit_A	['macrolide antibiotic']	STX2	Loose
-22001098|AAM88302.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
+18147070|BAB83024.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+2086798907|QZN05543.1|1|1|stxA2j|stxA2j||1|STX2J|STX2|Shiga_toxin_Stx2j_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+22001098|AAM88302.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 22087600|AAM90978.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 222708683|ACM67143.1|1|1|alpha-1|alpha-1||1|ALPHA|INTIMIN|intimin_type_alpha	['beta-lactam antibiotic']	INTIMIN	Loose
 222708687|ACM67145.1|1|1|iota-1|iota-1||1|IOTA|INTIMIN|intimin_type_iota	['beta-lactam antibiotic']	INTIMIN	Loose
@@ -63,69 +63,69 @@
 22759883|BAC10988.1|1|1|stxB1a|stxB1a||1|STX1A|STX1|Shiga_toxin_Stx1a_subunit_B	['beta-lactam antibiotic']	STX1	Loose
 22759891|BAC10992.1|1|1|stxB1c|stxB1c||1|STX1C|STX1|Shiga_toxin_Stx1c_subunit_B	['beta-lactam antibiotic']	STX1	Loose
 2395687275|WAK53219.1|1|1|stxB2n|stxB2n||1|STX2N|STX2|Shiga_toxin_Stx2n_subunit_B	['tetracycline antibiotic', 'tetracycline antibiotic', 'tetracycline antibiotic']	STX2	Loose
-2395698164|WAK61649.1|1|1|stxA2n|stxA2n||1|STX2N|STX2|Shiga_toxin_Stx2n_subunit_A	['macrolide antibiotic']	STX2	Loose
-240851568|CAQ68302.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-2497690247|WGO76391.1|1|1|stxA2m|stxA2m||1|STX2M|STX2|Shiga_toxin_Stx2m_subunit_A	['macrolide antibiotic']	STX2	Loose
+2395698164|WAK61649.1|1|1|stxA2n|stxA2n||1|STX2N|STX2|Shiga_toxin_Stx2n_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+240851568|CAQ68302.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+2497690247|WGO76391.1|1|1|stxA2m|stxA2m||1|STX2M|STX2|Shiga_toxin_Stx2m_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 2497690248|WGO76392.1|1|1|stxB2m|stxB2m||1|STX2M|STX2|Shiga_toxin_Stx2m_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 254939480|BAH86760.1|1|1|stxB2f|stxB2f||1|STX2F|STX2|Shiga_toxin_Stx2f_subunit_B	['beta-lactam antibiotic']	STX2	Loose
-255760591|ACU32684.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
-257146528|CAX45702.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
-257146534|CAX45706.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-257146546|CAX45714.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
-257146552|CAX45718.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
+255760591|ACU32684.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+257146528|CAX45702.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+257146534|CAX45706.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+257146546|CAX45714.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+257146552|CAX45718.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 257146580|CAX45737.1|1|1|stxB2d|stxB2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 257146583|CAX45739.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-257146594|CAX45746.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-257146606|CAX51714.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
-25992110|AAN77057.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-25992116|AAN77061.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-25992119|AAN77063.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
+257146594|CAX45746.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+257146606|CAX51714.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+25992110|AAN77057.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+25992116|AAN77061.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+25992119|AAN77063.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 28192583|AAO19475.1|1|1|stxA1d|stxA1d||1|STX1D|STX1|Shiga_toxin_Stx1d_subunit_A	['tetracycline antibiotic']	STX1	Loose
 28192584|AAO19476.1|1|1|stxB1d|stxB1d||1|STX1D|STX1|Shiga_toxin_Stx1d_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX1	Loose
-2854037|AAD12174.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
+2854037|AAD12174.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 290764920|ADD58881.1|1|1|gamma-1|gamma-1||1|GAMMA|INTIMIN|intimin_type_gamma	['beta-lactam antibiotic']	INTIMIN	Loose
-30313371|AAM22256.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
+30313371|AAM22256.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 30313372|AAM22257.1|1|1|stxB2d|stxB2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-304951|AAA16360.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
+304951|AAA16360.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 304952|AAA16361.1|1|1|stxB2b|stxB2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-304954|AAA16362.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-30909080|AAP37403.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic']	STX2	Loose
-315000230|CAX53241.1|1|1|stxA2i|stxA2i||1|STX2I|STX2|Shiga_toxin_Stx2i_subunit_A	['macrolide antibiotic']	STX2	Loose
+304954|AAA16362.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+30909080|AAP37403.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+315000230|CAX53241.1|1|1|stxA2i|stxA2i||1|STX2I|STX2|Shiga_toxin_Stx2i_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 315000231|CAX53242.1|1|1|stxB2i|stxB2i||1|STX2I|STX2|Shiga_toxin_Stx2i_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
 32400303|BAC78640.1|1|1|stxB1a|stxB1a||1|STX1A|STX1|Shiga_toxin_Stx1a_subunit_B	['beta-lactam antibiotic']	STX1	Loose
-33391900|AAQ17546.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581495|AAS07580.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
+33391900|AAQ17546.1|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581495|AAS07580.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 41581496|AAS07581.1|1|1|stxB2c|stxB2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-41581498|AAS07582.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581504|AAS07586.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581507|AAS07588.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
+41581498|AAS07582.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581504|AAS07586.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581507|AAS07588.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 41581508|AAS07589.1|1|1|stxB2d|stxB2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-41581510|AAS07590.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581519|AAS07596.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581525|AAS07600.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
-41581534|AAS07606.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
-42968|CAA43585.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-459392465|AGB13719.2|1|1|stxA2k|stxA2k||1|STX2K|STX2|Shiga_toxin_Stx2k_subunit_A	['macrolide antibiotic']	STX2	Loose
+41581510|AAS07590.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581519|AAS07596.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581525|AAS07600.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+41581534|AAS07606.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+42968|CAA43585.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+459392465|AGB13719.2|1|1|stxA2k|stxA2k||1|STX2K|STX2|Shiga_toxin_Stx2k_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 4877348|BAA77750.1|1|1|stxB2b|stxB2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-4877350|BAA77751.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
-49090|CAA46767.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic']	STX2	Loose
+4877350|BAA77751.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+49090|CAA46767.1|1|1|stxA2b|stxA2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 49091|CAA46768.1|1|1|stxB2b|stxB2b||1|STX2B|STX2|Shiga_toxin_Stx2b_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-49425171|AAT65972.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-49425213|AAT66000.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-49425228|AAT66010.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
+49425171|AAT65972.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+49425213|AAT66000.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+49425228|AAT66010.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 49425229|AAT66011.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-49425231|AAT66012.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-52854339|AAU88208.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
+49425231|AAT66012.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+52854339|AAU88208.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 535055|CAA85368.1|1|1|stxA1a|stxA1a||1|STX1A|STX1|Shiga_toxin_Stx1a_subunit_A	['tetracycline antibiotic']	STX1	Loose
 535090|CAA85371.1|1|1|stxB1c|stxB1c||1|STX1C|STX1|Shiga_toxin_Stx1c_subunit_B	['beta-lactam antibiotic']	STX1	Loose
 57434448|CAI43865.1|1|1|epsilon-1|epsilon-1||1|EPSILON|INTIMIN|intimin_type_epsilon	['beta-lactam antibiotic']	INTIMIN	Loose
 586640775|AHJ80154.1|1|1|stxB1e|stxB1e||1|STX1E|STX1|Shiga_toxin_Stx1e_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX1	Loose
-65306062|CAI91198.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic']	STX2	Loose
+65306062|CAI91198.1|1|1|stxA2g|stxA2g||1|STX2G|STX2|Shiga_toxin_Stx2g_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 6683770|AAF23359.1|1|1|epsilon-1|epsilon-1||1|EPSILON|INTIMIN|intimin_type_epsilon	['beta-lactam antibiotic']	INTIMIN	Loose
-67043451|AAY63864.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic']	STX2	Loose
-78214789|ABB36584.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
-8346571|CAB77169.2|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic']	STX2	Loose
+67043451|AAY63864.1|1|1|stxA2d|stxA2d||1|STX2D|STX2|Shiga_toxin_Stx2d_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+78214789|ABB36584.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
+8346571|CAB77169.2|1|1|stxA2e|stxA2e||1|STX2E|STX2|Shiga_toxin_Stx2e_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 8439282|CAB94149.1|1|1|stxB2a|stxB2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_B	['beta-lactam antibiotic', 'beta-lactam antibiotic', 'beta-lactam antibiotic']	STX2	Loose
-944825|CAA90630.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic']	STX2	Loose
+944825|CAA90630.1|1|1|stxA2a|stxA2a||1|STX2A|STX2|Shiga_toxin_Stx2a_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
 949429320|BAT41861.1|1|1|alpha-8|alpha-8||1|ALPHA|INTIMIN|intimin_type_alpha	['beta-lactam antibiotic']	INTIMIN	Loose
-9858183|AAG01033.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic']	STX2	Loose
+9858183|AAG01033.1|1|1|stxA2c|stxA2c||1|STX2C|STX2|Shiga_toxin_Stx2c_subunit_A	['macrolide antibiotic', 'streptogramin antibiotic']	STX2	Loose
